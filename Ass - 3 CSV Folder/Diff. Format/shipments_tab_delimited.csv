@@ -1,0 +1,4 @@
+shipment_id	origin	weight_kg	ship_date	carrier
+SH006	PHI	12.0	2026-08-06	FedEx
+SH007	SAN	30.5	2026-08-07	UPS
+SH008	DAL	7.8	2026-08-08	DHL
