@@ -1,0 +1,151 @@
+order_id,product_name,dirty_price,dirty_date,quantity,customer_country
+ORD-5000,Laptop,$1908,19/03/2024,5,USA
+ORD-5001,Laptop,$817.15,"March 05, 2024",3,France
+ORD-5002,Keyboard,£ 2323.46,28-Feb-2024,5,Germany
+ORD-5003,Mouse,$154.23,"April 21, 2024",3,Canada
+ORD-5004,Mouse,$1832,,3,Germany
+ORD-5005,Mouse,,07/07/2024,1,France
+ORD-5006,Laptop,"€1,193.45",,2,Germany
+ORD-5007,Headphones, 1323.91,03-24-2024,3,France
+ORD-5008,Laptop,,25-Feb-2024,5,Germany
+ORD-5009,Headphones,786.17,01-14-2024,5,UK
+ORD-5010,Monitor,2250.04,2024/10/21,3,France
+ORD-5011,Laptop,$627.28,"July 11, 2024",5,France
+ORD-5012,Laptop,€62,2024-04-11,1,USA
+ORD-5013,Laptop,,2024-05-04,5,UK
+ORD-5014,Mouse,€1581.45,,1,France
+ORD-5015,Mouse,£2264.5,,3,Canada
+ORD-5016,Headphones,,,3,Germany
+ORD-5017,Headphones,,01-22-2024,3,Canada
+ORD-5018,Laptop, 2339.43,"September 29, 2024",1,Germany
+ORD-5019,Headphones, 1963.7,2024-07-08,5,Germany
+ORD-5020,Mouse,244.87,2024/09/16,1,USA
+ORD-5021,Headphones,,2024-06-23,5,France
+ORD-5022,Monitor,$144.89,,5,Germany
+ORD-5023,Mouse,£1012.53,2024-09-07,1,USA
+ORD-5024,Monitor,€629,08-09-2024,2,Canada
+ORD-5025,Headphones, 1127.05,2024/08/23,3,USA
+ORD-5026,Keyboard,€703.58,"March 19, 2024",5,Canada
+ORD-5027,Laptop,$1113.4,2024/03/31,5,France
+ORD-5028,Mouse,$1633.84,2024/09/24,1,Germany
+ORD-5029,Monitor,€ 2316.65,18-May-2024,2,UK
+ORD-5030,Keyboard, 1021.97,,3,Canada
+ORD-5031,Keyboard,$ 2162.98,"September 04, 2024",2,Germany
+ORD-5032,Mouse,953.64,,3,UK
+ORD-5033,Mouse,"2,317.03",05-17-2024,5,UK
+ORD-5034,Keyboard, 1063.29,,5,Canada
+ORD-5035,Laptop,€482.85,02-14-2024,1,Germany
+ORD-5036,Laptop,,18/08/2024,1,UK
+ORD-5037,Monitor,$790,25-Aug-2024,2,USA
+ORD-5038,Laptop,€1197.2,07-13-2024,2,USA
+ORD-5039,Keyboard,$ 2402.34,"January 15, 2024",3,Germany
+ORD-5040,Keyboard,,15/06/2024,1,France
+ORD-5041,Headphones,2155.93,06/09/2024,5,USA
+ORD-5042,Keyboard,€2354,,1,Canada
+ORD-5043,Laptop,1490.35,05-12-2024,2,Germany
+ORD-5044,Monitor,"£1,646.86",23-May-2024,1,UK
+ORD-5045,Headphones,£ 518.61,21-May-2024,5,USA
+ORD-5046,Laptop,,06-Jan-2024,1,Germany
+ORD-5047,Monitor,"1,617.30",2024-04-07,2,Germany
+ORD-5048,Laptop,$2323.26,2024/05/03,5,France
+ORD-5049,Headphones,$1151.13,"July 27, 2024",3,UK
+ORD-5050,Keyboard,£ 1348.71,,3,UK
+ORD-5051,Headphones,$ 2333.82,2024/05/03,5,UK
+ORD-5052,Keyboard,930.12,2024/08/31,5,Canada
+ORD-5053,Headphones,£2086,"September 08, 2024",5,Germany
+ORD-5054,Mouse,,2024-01-09,2,Canada
+ORD-5055,Laptop,,30/05/2024,5,Canada
+ORD-5056,Laptop,€267.93,2024/07/26,2,Germany
+ORD-5057,Mouse,,05-04-2024,5,UK
+ORD-5058,Keyboard,"£1,387.53",10-24-2024,2,Germany
+ORD-5059,Laptop,£ 1516.03,30-Aug-2024,2,France
+ORD-5060,Mouse,£1721,09-28-2024,1,Germany
+ORD-5061,Laptop,$1226.44,2024/08/05,3,Germany
+ORD-5062,Monitor,£1589.37,10-08-2024,5,USA
+ORD-5063,Keyboard,,2024/06/29,3,France
+ORD-5064,Monitor,,08-20-2024,3,USA
+ORD-5065,Keyboard,1110,06-05-2024,1,UK
+ORD-5066,Mouse,,2024-04-28,3,UK
+ORD-5067,Keyboard,"$2,260.78",04-08-2024,3,France
+ORD-5068,Keyboard,1460.45,2024/03/02,5,Canada
+ORD-5069,Mouse,£327.34,,2,Germany
+ORD-5070,Keyboard,"$2,248.46",04/04/2024,5,USA
+ORD-5071,Laptop,,2024/04/20,5,France
+ORD-5072,Headphones,265,09-04-2024,3,USA
+ORD-5073,Mouse,€ 1876.2,25-Sep-2024,3,Germany
+ORD-5074,Headphones,2440.75,2024-05-24,5,Canada
+ORD-5075,Mouse,71.72,04-09-2024,5,USA
+ORD-5076,Mouse,"€2,007.57",04-26-2024,3,France
+ORD-5077,Monitor,406.4,04-01-2024,2,Germany
+ORD-5078,Monitor, 2181.7,2024/01/08,2,Germany
+ORD-5079,Keyboard,506.94,30/09/2024,5,Canada
+ORD-5080,Headphones,€ 769.93,2024-05-20,2,France
+ORD-5081,Mouse,68.92,28-Jan-2024,5,Germany
+ORD-5082,Keyboard,$827.37,2024/05/29,1,USA
+ORD-5083,Laptop,,2024/03/05,3,UK
+ORD-5084,Mouse,£2453.06,2024-09-08,5,France
+ORD-5085,Laptop,£ 297.2,07-Jan-2024,5,USA
+ORD-5086,Keyboard,£1455.67,"May 25, 2024",5,Canada
+ORD-5087,Monitor,279.92,"September 02, 2024",2,Canada
+ORD-5088,Keyboard,1824.08,23/06/2024,5,Germany
+ORD-5089,Laptop,1519.46,01-27-2024,1,Canada
+ORD-5090,Mouse,"€2,249.77",2024-09-01,2,UK
+ORD-5091,Headphones,120.52,"February 03, 2024",3,USA
+ORD-5092,Keyboard,"€1,304.60",2024-09-08,1,France
+ORD-5093,Mouse,£1083,2024/10/22,5,Germany
+ORD-5094,Monitor,,28/01/2024,1,France
+ORD-5095,Monitor,,,5,USA
+ORD-5096,Monitor,,10-15-2024,1,UK
+ORD-5097,Mouse,€ 746.18,13/02/2024,2,USA
+ORD-5098,Keyboard,,01-Mar-2024,5,USA
+ORD-5099,Mouse,€1872,01-Aug-2024,2,Germany
+ORD-5100,Mouse,1427,,1,France
+ORD-5101,Headphones,"£2,085.98","September 24, 2024",5,USA
+ORD-5102,Headphones,533.35,"August 18, 2024",3,USA
+ORD-5103,Keyboard,€1110,,3,UK
+ORD-5104,Headphones,,08-07-2024,5,Canada
+ORD-5105,Monitor,£221.14,18-Oct-2024,1,UK
+ORD-5106,Headphones,,31-Jan-2024,3,France
+ORD-5107,Monitor,€ 782.94,,5,France
+ORD-5108,Keyboard,70.82,2024/04/16,3,Germany
+ORD-5109,Mouse,1532.07,04-18-2024,5,Canada
+ORD-5110,Mouse,,11/02/2024,1,France
+ORD-5111,Headphones,1743.92,02/05/2024,1,Canada
+ORD-5112,Monitor,$617.52,2024-10-09,2,UK
+ORD-5113,Laptop,€ 1948.27,2024-03-21,3,France
+ORD-5114,Laptop,2012.23,"July 28, 2024",2,USA
+ORD-5115,Laptop,1397.94,08-28-2024,1,France
+ORD-5116,Mouse,,17/01/2024,5,Canada
+ORD-5117,Mouse,1332.52,2024/05/27,1,France
+ORD-5118,Monitor,1535,2024/05/24,1,Germany
+ORD-5119,Headphones,,2024-08-20,5,USA
+ORD-5120,Laptop,"2,155.12",04-29-2024,2,Germany
+ORD-5121,Monitor,£1881,"April 11, 2024",3,UK
+ORD-5122,Monitor,"€1,216.65",28-Feb-2024,1,France
+ORD-5123,Headphones,£ 1105.28,2024/04/25,1,France
+ORD-5124,Monitor,£686,03-17-2024,3,UK
+ORD-5125,Headphones,€ 210.64,2024-03-13,1,Germany
+ORD-5126,Keyboard,,31/01/2024,3,USA
+ORD-5127,Headphones,542.74,06-Jun-2024,3,Germany
+ORD-5128,Laptop,833.89,10-18-2024,3,Canada
+ORD-5129,Laptop,165.04,2024-08-12,5,Germany
+ORD-5130,Headphones,$2263,2024/08/27,2,USA
+ORD-5131,Keyboard,$957.15,2024/06/04,2,France
+ORD-5132,Keyboard,753.55,07-25-2024,5,Germany
+ORD-5133,Laptop,1350.17,13-Sep-2024,2,UK
+ORD-5134,Keyboard,556.36,"September 09, 2024",2,USA
+ORD-5135,Monitor,,11-Feb-2024,2,France
+ORD-5136,Mouse,,"January 21, 2024",1,USA
+ORD-5137,Monitor, 420.96,14-Jun-2024,5,UK
+ORD-5138,Laptop,2452.0,2024-05-08,2,Canada
+ORD-5139,Keyboard,$1483.81,16/02/2024,5,USA
+ORD-5140,Headphones,1610.45,21-Oct-2024,2,USA
+ORD-5141,Mouse,462.51,,2,Germany
+ORD-5142,Headphones,825.11,17-May-2024,5,UK
+ORD-5143,Laptop,850.38,,3,UK
+ORD-5144,Keyboard,"1,882.50","March 30, 2024",5,Canada
+ORD-5145,Headphones,2088.93,2024/09/22,3,UK
+ORD-5146,Headphones,"$1,875.07",08-14-2024,1,USA
+ORD-5147,Mouse,,02-Apr-2024,5,Canada
+ORD-5148,Mouse,$ 110.24,2024/08/11,3,UK
+ORD-5149,Keyboard,$506,2024-09-08,2,Canada
