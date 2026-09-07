@@ -1,0 +1,211 @@
+transaction_id,store_id,product_name,quantity,unit_price,sale_date,payment_method,customer_email
+TXN-1030,Store-C,Monitor,NULL,199.99,08/18/2024,Debit Card,customer30@example.com
+TXN-1172,Store-B,Webcam,NULL,49.99,08/16/2024,,customer172@example.com
+TXN-1084,Store-A,Laptop,5,49.99,08/30/2024,Cash,customer84@example.com
+TXN-1199,Store-D,USB-Cable,4,49.99,08/06/2024,PayPal,customer199@example.com
+TXN-1060,Store-B,Webcam,-1,199.99,08/28/2024,Credit Card,customer60@example.com
+TXN-1155,Store-A,Mouse,1,49.99,08/24/2024,Debit Card,customer155@example.com
+TXN-1045,Store-A,Laptop,NULL,199.99,08/25/2024,Cash,customer45@example.com
+TXN-1182,Store-A,Monitor,5,N/A,08/03/2024,Debit Card,customer182@example.com
+TXN-1009,Store-E,Webcam,2,29.99,08/01/2024,Debit Card,customer9@example.com
+TXN-1196,Store-C,Monitor,3,49.99,08/29/2024,Cash,customer196@example.com
+TXN-1136,Store-D,Laptop,5,199.99,08/01/2024,Cash,customer136@example.com
+TXN-1187,Store-A,Headphones,2,199.99,08/29/2024,,customer187@example.com
+TXN-1027,Store-B,Mouse,5,29.99,08/10/2024,,customer27@example.com
+TXN-1126,Store-E,Webcam,4,-5.0,08/02/2024,,invalid-email
+TXN-1015,Store-B,Monitor,NULL,-5.0,08/29/2024,,customer15@example.com
+TXN-1073,Store-B,Laptop,two,299.99,08/19/2024,Credit Card,customer73@example.com
+TXN-1165,Store-B,Mouse,2,199.99,08/16/2024,,customer165@example.com
+TXN-1018,Store-A,Keyboard,3,199.99,08/03/2024,PayPal,customer18@example.com
+TXN-1168,Store-A,Laptop,5,99.99,08/15/2024,Credit Card,customer168@example.com
+TXN-1093,Store-C,Laptop,5,29.99,08/26/2024,Debit Card,customer93@example.com
+TXN-1075,Store-B,Mouse,two,-5.0,08/21/2024,,customer75@example.com
+TXN-1055,Store-A,Laptop,5,199.99,08/01/2024,Credit Card,customer55@example.com
+TXN-1147,Store-C,USB-Cable,3,-5.0,08/04/2024,Debit Card,customer147@example.com
+TXN-1109,Store-C,Mouse,2,-5.0,08/17/2024,,customer109@example.com
+TXN-1108,Store-C,Keyboard,two,-5.0,08/25/2024,Cash,customer108@example.com
+TXN-1142,Store-D,Laptop,2,99.99,08/10/2024,Debit Card,customer142@example.com
+TXN-1025,Store-C,Laptop,4,29.99,08/25/2024,PayPal,customer25@example.com
+TXN-1125,Store-D,Monitor,2,99.99,08/18/2024,Credit Card,customer125@example.com
+TXN-1016,Store-D,Keyboard,-1,N/A,08/13/2024,Credit Card,customer16@example.com
+TXN-1173,Store-D,USB-Cable,2,-5.0,08/11/2024,Debit Card,customer173@example.com
+TXN-1192,Store-D,Monitor,2,299.99,08/05/2024,Cash,customer192@example.com
+TXN-1069,Store-D,Keyboard,2,-5.0,08/21/2024,Debit Card,customer69@example.com
+TXN-1101,Store-A,Webcam,1,N/A,08/01/2024,Debit Card,customer101@example.com
+TXN-1067,Store-B,Monitor,1,49.99,08/23/2024,Cash,customer67@example.com
+TXN-1104,Store-A,Headphones,NULL,29.99,08/05/2024,PayPal,customer104@example.com
+TXN-1132,Store-D,Monitor,two,199.99,08/02/2024,Credit Card,customer132@example.com
+TXN-1180,Store-A,Laptop,2,299.99,08/24/2024,Credit Card,customer180@example.com
+TXN-1095,Store-C,Keyboard,1,99.99,08/22/2024,Debit Card,customer95@example.com
+TXN-1082,Store-E,Laptop,two,29.99,08/13/2024,,customer82@example.com
+TXN-1159,Store-C,USB-Cable,5,299.99,08/21/2024,Credit Card,customer159@example.com
+TXN-1197,Store-A,Mouse,5,49.99,08/22/2024,Credit Card,customer197@example.com
+TXN-1162,Store-E,Mouse,1,N/A,08/30/2024,Credit Card,customer162@example.com
+TXN-1150,Store-A,Mouse,4,29.99,08/17/2024,PayPal,customer150@example.com
+TXN-1096,Store-E,Keyboard,5,49.99,08/22/2024,,customer96@example.com
+TXN-1172,Store-B,Webcam,NULL,49.99,08/16/2024,,customer172@example.com
+TXN-1068,Store-D,Webcam,-1,49.99,08/05/2024,Cash,customer68@example.com
+TXN-1156,Store-D,Keyboard,5,199.99,08/05/2024,Debit Card,customer156@example.com
+TXN-1086,Store-A,Laptop,5,29.99,08/17/2024,PayPal,customer86@example.com
+TXN-1100,Store-D,Webcam,-1,299.99,08/12/2024,PayPal,customer100@example.com
+TXN-1038,Store-A,Keyboard,two,199.99,08/01/2024,Debit Card,customer38@example.com
+TXN-1024,Store-A,Laptop,4,99.99,08/15/2024,Cash,customer24@example.com
+TXN-1183,Store-B,Mouse,2,99.99,08/03/2024,PayPal,customer183@example.com
+TXN-1117,Store-C,Monitor,NULL,99.99,08/02/2024,Cash,customer117@example.com
+TXN-1029,Store-D,Keyboard,4,N/A,08/30/2024,Debit Card,customer29@example.com
+TXN-1019,Store-D,USB-Cable,4,29.99,08/29/2024,Credit Card,customer19@example.com
+TXN-1135,Store-C,Headphones,5,199.99,08/06/2024,PayPal,customer135@example.com
+TXN-1139,Store-E,USB-Cable,two,29.99,08/28/2024,Credit Card,invalid-email
+TXN-1066,Store-B,Webcam,2,299.99,08/21/2024,PayPal,customer66@example.com
+TXN-1065,Store-D,Monitor,2,299.99,08/03/2024,,customer65@example.com
+TXN-1005,Store-B,Laptop,-1,49.99,08/27/2024,Cash,customer5@example.com
+TXN-1146,Store-D,Headphones,two,29.99,08/29/2024,,customer146@example.com
+TXN-1056,Store-D,Keyboard,2,29.99,08/21/2024,,customer56@example.com
+TXN-1097,Store-B,Webcam,NULL,49.99,08/03/2024,PayPal,invalid-email
+TXN-1128,Store-E,Webcam,2,99.99,08/30/2024,Credit Card,customer128@example.com
+TXN-1079,Store-D,Webcam,two,49.99,08/01/2024,Credit Card,customer79@example.com
+TXN-1150,Store-A,Mouse,4,29.99,08/17/2024,PayPal,customer150@example.com
+TXN-1185,Store-D,Laptop,2,29.99,08/29/2024,Credit Card,customer185@example.com
+TXN-1031,Store-D,Laptop,5,29.99,08/27/2024,Debit Card,customer31@example.com
+TXN-1012,Store-E,Monitor,1,49.99,08/13/2024,Credit Card,customer12@example.com
+TXN-1035,Store-E,USB-Cable,-1,99.99,08/24/2024,Cash,customer35@example.com
+TXN-1028,Store-D,Laptop,-1,29.99,08/24/2024,Cash,invalid-email
+TXN-1042,Store-D,Laptop,2,199.99,08/11/2024,Cash,customer42@example.com
+TXN-1115,Store-E,Laptop,1,199.99,08/21/2024,Credit Card,customer115@example.com
+TXN-1098,Store-B,USB-Cable,4,299.99,08/27/2024,,customer98@example.com
+TXN-1143,Store-D,Monitor,1,299.99,08/19/2024,Debit Card,customer143@example.com
+TXN-1051,Store-D,Headphones,4,-5.0,08/01/2024,Credit Card,customer51@example.com
+TXN-1118,Store-A,Headphones,5,299.99,08/11/2024,,customer118@example.com
+TXN-1170,Store-A,Laptop,4,199.99,08/23/2024,Credit Card,customer170@example.com
+TXN-1076,Store-A,Webcam,5,299.99,08/14/2024,,customer76@example.com
+TXN-1041,Store-A,Mouse,5,99.99,08/17/2024,PayPal,customer41@example.com
+TXN-1020,Store-B,Keyboard,5,-5.0,08/06/2024,Credit Card,customer20@example.com
+TXN-1078,Store-D,Mouse,1,99.99,08/14/2024,Debit Card,customer78@example.com
+TXN-1124,Store-A,Monitor,4,49.99,08/06/2024,PayPal,customer124@example.com
+TXN-1026,Store-C,USB-Cable,4,N/A,08/02/2024,Cash,customer26@example.com
+TXN-1140,Store-A,Keyboard,two,-5.0,08/30/2024,Cash,customer140@example.com
+TXN-1178,Store-E,Keyboard,-1,-5.0,08/08/2024,PayPal,customer178@example.com
+TXN-1122,Store-E,Laptop,NULL,99.99,08/28/2024,,customer122@example.com
+TXN-1002,Store-C,Webcam,3,299.99,08/05/2024,Credit Card,customer2@example.com
+TXN-1077,Store-D,Mouse,5,99.99,08/09/2024,PayPal,customer77@example.com
+TXN-1046,Store-B,Mouse,3,N/A,08/22/2024,PayPal,customer46@example.com
+TXN-1127,Store-D,Headphones,-1,N/A,08/18/2024,Credit Card,customer127@example.com
+TXN-1112,Store-E,Laptop,5,199.99,08/23/2024,,customer112@example.com
+TXN-1090,Store-C,USB-Cable,2,N/A,08/08/2024,Debit Card,customer90@example.com
+TXN-1085,Store-A,Monitor,NULL,199.99,08/01/2024,PayPal,customer85@example.com
+TXN-1141,Store-E,Monitor,-1,29.99,08/23/2024,PayPal,customer141@example.com
+TXN-1036,Store-C,Webcam,3,29.99,08/01/2024,Cash,customer36@example.com
+TXN-1119,Store-B,Keyboard,-1,199.99,08/19/2024,Cash,customer119@example.com
+TXN-1061,Store-D,Laptop,1,299.99,08/17/2024,PayPal,customer61@example.com
+TXN-1022,Store-D,USB-Cable,two,-5.0,08/19/2024,,customer22@example.com
+TXN-1138,Store-B,Headphones,two,-5.0,08/15/2024,Debit Card,customer138@example.com
+TXN-1111,Store-C,Webcam,two,299.99,08/15/2024,PayPal,customer111@example.com
+TXN-1033,Store-A,Mouse,4,299.99,08/05/2024,PayPal,invalid-email
+TXN-1011,Store-C,Keyboard,NULL,199.99,08/20/2024,Cash,customer11@example.com
+TXN-1051,Store-D,Headphones,4,-5.0,08/01/2024,Credit Card,customer51@example.com
+TXN-1167,Store-C,Mouse,4,199.99,08/19/2024,Credit Card,customer167@example.com
+TXN-1006,Store-C,Laptop,NULL,299.99,08/22/2024,Credit Card,customer6@example.com
+TXN-1027,Store-B,Mouse,5,29.99,08/10/2024,,customer27@example.com
+TXN-1171,Store-A,Keyboard,-1,29.99,08/23/2024,Cash,customer171@example.com
+TXN-1104,Store-A,Headphones,NULL,29.99,08/05/2024,PayPal,customer104@example.com
+TXN-1144,Store-D,USB-Cable,4,199.99,08/17/2024,Credit Card,customer144@example.com
+TXN-1004,Store-E,USB-Cable,2,199.99,08/04/2024,Cash,customer4@example.com
+TXN-1032,Store-D,Laptop,two,N/A,08/13/2024,Debit Card,invalid-email
+TXN-1113,Store-C,Monitor,-1,199.99,08/15/2024,Debit Card,customer113@example.com
+TXN-1152,Store-A,Mouse,3,N/A,08/17/2024,,customer152@example.com
+TXN-1120,Store-B,Monitor,2,N/A,08/07/2024,PayPal,customer120@example.com
+TXN-1194,Store-D,USB-Cable,2,199.99,08/28/2024,,customer194@example.com
+TXN-1114,Store-A,USB-Cable,4,N/A,08/05/2024,Debit Card,customer114@example.com
+TXN-1010,Store-D,Headphones,2,99.99,08/21/2024,Credit Card,customer10@example.com
+TXN-1062,Store-E,Monitor,4,-5.0,08/05/2024,Debit Card,customer62@example.com
+TXN-1148,Store-B,Laptop,4,199.99,08/10/2024,Credit Card,customer148@example.com
+TXN-1153,Store-A,USB-Cable,4,299.99,08/28/2024,,customer153@example.com
+TXN-1176,Store-C,USB-Cable,2,N/A,08/08/2024,Debit Card,customer176@example.com
+TXN-1000,Store-D,Mouse,-1,29.99,08/28/2024,Credit Card,customer0@example.com
+TXN-1189,Store-C,Laptop,1,N/A,08/19/2024,Debit Card,invalid-email
+TXN-1184,Store-B,USB-Cable,2,-5.0,08/27/2024,,customer184@example.com
+TXN-1070,Store-A,Webcam,two,N/A,08/05/2024,Debit Card,customer70@example.com
+TXN-1163,Store-A,USB-Cable,1,299.99,08/11/2024,Cash,customer163@example.com
+TXN-1064,Store-B,Laptop,1,-5.0,08/06/2024,Credit Card,invalid-email
+TXN-1044,Store-B,Monitor,2,-5.0,08/26/2024,Credit Card,customer44@example.com
+TXN-1137,Store-B,Webcam,4,299.99,08/24/2024,,customer137@example.com
+TXN-1040,Store-D,Monitor,two,29.99,08/15/2024,,customer40@example.com
+TXN-1123,Store-C,Laptop,5,49.99,08/02/2024,Cash,customer123@example.com
+TXN-1023,Store-A,Monitor,5,29.99,08/05/2024,PayPal,customer23@example.com
+TXN-1158,Store-A,Mouse,3,299.99,08/06/2024,PayPal,customer158@example.com
+TXN-1154,Store-C,Webcam,1,N/A,08/20/2024,,customer154@example.com
+TXN-1081,Store-A,Headphones,-1,199.99,08/13/2024,Debit Card,customer81@example.com
+TXN-1039,Store-B,USB-Cable,4,299.99,08/18/2024,Credit Card,customer39@example.com
+TXN-1177,Store-A,Mouse,3,-5.0,08/04/2024,Cash,customer177@example.com
+TXN-1047,Store-E,Laptop,1,-5.0,08/27/2024,Credit Card,customer47@example.com
+TXN-1094,Store-A,Monitor,NULL,49.99,08/02/2024,Cash,customer94@example.com
+TXN-1161,Store-A,USB-Cable,3,299.99,08/13/2024,Cash,customer161@example.com
+TXN-1043,Store-B,Monitor,4,29.99,08/21/2024,Credit Card,customer43@example.com
+TXN-1145,Store-D,Headphones,two,N/A,08/05/2024,PayPal,customer145@example.com
+TXN-1003,Store-E,Keyboard,1,29.99,08/09/2024,PayPal,customer3@example.com
+TXN-1105,Store-E,Keyboard,4,N/A,08/30/2024,Credit Card,customer105@example.com
+TXN-1053,Store-E,USB-Cable,-1,299.99,08/09/2024,Cash,customer53@example.com
+TXN-1133,Store-E,Laptop,1,N/A,08/20/2024,,customer133@example.com
+TXN-1190,Store-B,Webcam,-1,199.99,08/19/2024,Credit Card,customer190@example.com
+TXN-1164,Store-C,Keyboard,two,99.99,08/11/2024,Debit Card,customer164@example.com
+TXN-1195,Store-C,USB-Cable,5,199.99,08/10/2024,Debit Card,customer195@example.com
+TXN-1049,Store-D,Monitor,-1,99.99,08/17/2024,,customer49@example.com
+TXN-1080,Store-E,Keyboard,5,-5.0,08/19/2024,Debit Card,customer80@example.com
+TXN-1034,Store-C,USB-Cable,NULL,99.99,08/23/2024,,customer34@example.com
+TXN-1007,Store-C,Monitor,5,29.99,08/17/2024,Cash,invalid-email
+TXN-1110,Store-A,Headphones,2,29.99,08/16/2024,Debit Card,customer110@example.com
+TXN-1091,Store-A,Keyboard,two,299.99,08/07/2024,Credit Card,customer91@example.com
+TXN-1083,Store-E,Monitor,-1,49.99,08/04/2024,PayPal,customer83@example.com
+TXN-1186,Store-E,Monitor,NULL,99.99,08/18/2024,Credit Card,customer186@example.com
+TXN-1191,Store-E,Webcam,4,199.99,08/21/2024,PayPal,invalid-email
+TXN-1089,Store-C,Monitor,4,-5.0,08/28/2024,Credit Card,customer89@example.com
+TXN-1008,Store-C,Keyboard,NULL,99.99,08/09/2024,,customer8@example.com
+TXN-1013,Store-B,Monitor,4,29.99,08/28/2024,Credit Card,customer13@example.com
+TXN-1059,Store-B,Monitor,-1,299.99,08/06/2024,Cash,invalid-email
+TXN-1181,Store-C,Headphones,two,N/A,08/25/2024,PayPal,customer181@example.com
+TXN-1131,Store-E,Keyboard,2,49.99,08/19/2024,Debit Card,customer131@example.com
+TXN-1017,Store-E,Mouse,NULL,299.99,08/14/2024,Cash,customer17@example.com
+TXN-1166,Store-D,Mouse,3,299.99,08/11/2024,Credit Card,customer166@example.com
+TXN-1072,Store-E,Keyboard,NULL,49.99,08/10/2024,,customer72@example.com
+TXN-1185,Store-D,Laptop,2,29.99,08/29/2024,Credit Card,customer185@example.com
+TXN-1134,Store-C,Headphones,two,49.99,08/25/2024,PayPal,customer134@example.com
+TXN-1175,Store-B,Mouse,3,29.99,08/16/2024,Debit Card,customer175@example.com
+TXN-1193,Store-B,Keyboard,5,49.99,08/18/2024,Cash,customer193@example.com
+TXN-1063,Store-B,Keyboard,5,29.99,08/05/2024,Cash,customer63@example.com
+TXN-1054,Store-C,Laptop,2,99.99,08/03/2024,Debit Card,customer54@example.com
+TXN-1107,Store-D,Keyboard,4,29.99,08/27/2024,Credit Card,customer107@example.com
+TXN-1050,Store-D,Headphones,3,49.99,08/13/2024,PayPal,customer50@example.com
+TXN-1174,Store-D,Headphones,5,29.99,08/22/2024,Debit Card,customer174@example.com
+TXN-1000,Store-D,Mouse,-1,29.99,08/28/2024,Credit Card,customer0@example.com
+TXN-1169,Store-D,Laptop,5,99.99,08/25/2024,Credit Card,invalid-email
+TXN-1058,Store-D,Keyboard,NULL,99.99,08/23/2024,PayPal,customer58@example.com
+TXN-1048,Store-B,Webcam,two,199.99,08/27/2024,Credit Card,customer48@example.com
+TXN-1088,Store-D,Headphones,3,N/A,08/02/2024,PayPal,customer88@example.com
+TXN-1021,Store-E,Monitor,1,299.99,08/18/2024,Debit Card,customer21@example.com
+TXN-1057,Store-B,Keyboard,5,199.99,08/16/2024,Cash,customer57@example.com
+TXN-1160,Store-C,Webcam,4,-5.0,08/02/2024,,customer160@example.com
+TXN-1158,Store-A,Mouse,3,299.99,08/06/2024,PayPal,customer158@example.com
+TXN-1129,Store-E,Headphones,2,299.99,08/15/2024,Credit Card,customer129@example.com
+TXN-1037,Store-E,Mouse,-1,199.99,08/22/2024,Debit Card,customer37@example.com
+TXN-1157,Store-E,Webcam,3,299.99,08/02/2024,Cash,customer157@example.com
+TXN-1198,Store-E,Mouse,two,199.99,08/21/2024,,customer198@example.com
+TXN-1001,Store-E,Webcam,NULL,299.99,08/28/2024,,customer1@example.com
+TXN-1052,Store-D,Keyboard,2,299.99,08/02/2024,PayPal,customer52@example.com
+TXN-1149,Store-D,Keyboard,two,29.99,08/24/2024,,customer149@example.com
+TXN-1130,Store-C,Webcam,3,299.99,08/27/2024,Debit Card,customer130@example.com
+TXN-1151,Store-A,Laptop,2,29.99,08/10/2024,Debit Card,customer151@example.com
+TXN-1103,Store-B,Webcam,NULL,299.99,08/12/2024,Credit Card,customer103@example.com
+TXN-1099,Store-A,Webcam,5,299.99,08/18/2024,Cash,customer99@example.com
+TXN-1116,Store-B,Headphones,NULL,-5.0,08/14/2024,Cash,customer116@example.com
+TXN-1087,Store-A,Webcam,-1,299.99,08/08/2024,Debit Card,customer87@example.com
+TXN-1074,Store-E,Headphones,1,99.99,08/17/2024,Credit Card,customer74@example.com
+TXN-1121,Store-D,Keyboard,2,-5.0,08/06/2024,Cash,customer121@example.com
+TXN-1021,Store-E,Monitor,1,299.99,08/18/2024,Debit Card,customer21@example.com
+TXN-1020,Store-B,Keyboard,5,-5.0,08/06/2024,Credit Card,customer20@example.com
+TXN-1188,Store-A,Monitor,3,49.99,08/26/2024,,customer188@example.com
+TXN-1071,Store-E,Laptop,NULL,-5.0,08/10/2024,,customer71@example.com
+TXN-1106,Store-C,Webcam,5,199.99,08/30/2024,PayPal,customer106@example.com
+TXN-1014,Store-D,Keyboard,2,-5.0,08/16/2024,Debit Card,customer14@example.com
+TXN-1092,Store-C,Laptop,3,49.99,08/26/2024,Cash,customer92@example.com
+TXN-1179,Store-A,Mouse,1,29.99,08/04/2024,,customer179@example.com
+TXN-1102,Store-D,Webcam,NULL,99.99,08/22/2024,PayPal,customer102@example.com
