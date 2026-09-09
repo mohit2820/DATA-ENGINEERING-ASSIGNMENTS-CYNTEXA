@@ -1,0 +1,5 @@
+customer_id,name,email,city,phone,updated_at
+101,Asha Verma,asha.v@email.com,Mumbai,9876500091,2026-09-09 08:00:00
+102,Rahul Iyer,rahul.i@email.com,Bengaluru,9876500092,2026-09-09 08:00:00
+207,Meena Rao,meena.r@email.com,Chennai,9876500007,2026-09-09 08:00:00
+208,Tom George,tom.g@email.com,Kochi,9876500008,2026-09-09 08:00:00
