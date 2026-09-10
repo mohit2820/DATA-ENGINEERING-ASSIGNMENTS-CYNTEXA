@@ -1,0 +1,24 @@
+# Databricks Asset Bundle deployment artifacts
+my_job_bundle/dev/
+my_job_bundle/prod/
+my_job_bundle/staging/
+**/artifacts/.internal/
+**/state/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
