@@ -12,7 +12,7 @@ jobs:
     name: Validate DAB Syntax
     runs-on: ubuntu-latest
 
-  # Set working directory for all steps in this job
+  # Set working directoryb
     defaults:
       run:
         working-directory: ./my_job_bundle
