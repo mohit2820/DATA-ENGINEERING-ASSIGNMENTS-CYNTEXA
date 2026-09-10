@@ -1,0 +1,29 @@
+name: Validate Databricks Asset Bundle
+
+on:
+  pull_request:
+    branches:
+      - main
+      - dev
+      - feature
+
+jobs:
+  validate-bundle:
+    name: Validate DAB Syntax
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Databricks CLI
+        uses: databricks/setup-cli@v0.220.0
+
+      - name: Run Bundle Validate
+        env:
+          DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
+          DATABRICKS_CLIENT_ID: ${{ secrets.DATABRICKS_CLIENT_ID }}
+          DATABRICKS_CLIENT_SECRET: ${{ secrets.DATABRICKS_CLIENT_SECRET }}
+        working-directory: ./my_job_bundle # directory 
+        run: |
+          databricks bundle validate -t dev
