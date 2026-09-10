@@ -12,6 +12,11 @@ jobs:
     name: Validate DAB Syntax
     runs-on: ubuntu-latest
 
+  # Set working directory for all steps in this job
+    defaults:
+      run:
+        working-directory: ./my_job_bundle
+        
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
