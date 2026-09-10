@@ -24,6 +24,6 @@ jobs:
           DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
           DATABRICKS_CLIENT_ID: ${{ secrets.DATABRICKS_CLIENT_ID }}
           DATABRICKS_CLIENT_SECRET: ${{ secrets.DATABRICKS_CLIENT_SECRET }}
-        working-directory: ./my_job_bundle
+        working-directory: ./my_job_bundle # directory 
         run: |
           databricks bundle validate -t dev
