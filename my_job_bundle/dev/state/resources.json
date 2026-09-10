@@ -1,0 +1,131 @@
+{
+ "state_version": 2,
+ "cli_version": "1.15.0",
+ "lineage": "c38d3880-fd1e-432f-b016-3f9eb2452425",
+ "serial": 1,
+ "state": {
+  "resources.jobs.sample_job": {
+   "__id__": "69643753145396",
+   "state": {
+    "deployment": {
+     "kind": "BUNDLE",
+     "metadata_file_path": "/Workspace/Users/bittuchudhare9118@gmail.com/.bundle/my_job_bundle/dev/state/metadata.json"
+    },
+    "edit_mode": "UI_LOCKED",
+    "environments": [
+     {
+      "environment_key": "default",
+      "spec": {
+       "dependencies": [
+        "/Workspace/Users/bittuchudhare9118@gmail.com/.bundle/my_job_bundle/dev/artifacts/.internal/my_job_bundle-0.0.1-py3-none-any.whl"
+       ],
+       "environment_version": "5"
+      }
+     }
+    ],
+    "format": "MULTI_TASK",
+    "max_concurrent_runs": 4,
+    "name": "[dev bittuchudhare9118] sample_job",
+    "parameters": [
+     {
+      "default": "cyntexa_dev",
+      "name": "catalog"
+     },
+     {
+      "default": "dev",
+      "name": "schema"
+     }
+    ],
+    "queue": {
+     "enabled": true
+    },
+    "tags": {
+     "dev": "bittuchudhare9118"
+    },
+    "tasks": [
+     {
+      "notebook_task": {
+       "notebook_path": "/Workspace/Users/bittuchudhare9118@gmail.com/.bundle/my_job_bundle/dev/files/src/sample_notebook"
+      },
+      "task_key": "notebook_task"
+     },
+     {
+      "depends_on": [
+       {
+        "task_key": "notebook_task"
+       }
+      ],
+      "environment_key": "default",
+      "python_wheel_task": {
+       "entry_point": "main",
+       "package_name": "my_job_bundle",
+       "parameters": [
+        "--catalog",
+        "cyntexa_dev",
+        "--schema",
+        "dev"
+       ]
+      },
+      "task_key": "python_wheel_task"
+     },
+     {
+      "depends_on": [
+       {
+        "task_key": "notebook_task"
+       }
+      ],
+      "pipeline_task": {
+       "pipeline_id": "437762bb-6bd6-4174-9eef-9ad6ab7c4487"
+      },
+      "task_key": "refresh_pipeline"
+     }
+    ],
+    "trigger": {
+     "pause_status": "PAUSED",
+     "periodic": {
+      "interval": 1,
+      "unit": "DAYS"
+     }
+    }
+   },
+   "depends_on": [
+    {
+     "node": "resources.pipelines.my_job_bundle_etl",
+     "label": "${resources.pipelines.my_job_bundle_etl.id}"
+    }
+   ]
+  },
+  "resources.pipelines.my_job_bundle_etl": {
+   "__id__": "437762bb-6bd6-4174-9eef-9ad6ab7c4487",
+   "state": {
+    "catalog": "cyntexa_dev",
+    "channel": "CURRENT",
+    "deployment": {
+     "kind": "BUNDLE",
+     "metadata_file_path": "/Workspace/Users/bittuchudhare9118@gmail.com/.bundle/my_job_bundle/dev/state/metadata.json"
+    },
+    "development": true,
+    "edition": "ADVANCED",
+    "environment": {
+     "dependencies": [
+      "--editable /Workspace/Users/bittuchudhare9118@gmail.com/.bundle/my_job_bundle/dev/files"
+     ]
+    },
+    "libraries": [
+     {
+      "glob": {
+       "include": "/Workspace/Users/bittuchudhare9118@gmail.com/.bundle/my_job_bundle/dev/files/src/my_job_bundle_etl/transformations/**"
+      }
+     }
+    ],
+    "name": "[dev bittuchudhare9118] my_job_bundle_etl",
+    "root_path": "/Workspace/Users/bittuchudhare9118@gmail.com/.bundle/my_job_bundle/dev/files/src/my_job_bundle_etl",
+    "schema": "dev",
+    "serverless": true,
+    "tags": {
+     "dev": "bittuchudhare9118"
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "config": {
+    "bundle": {
+      "name": "my_job_bundle",
+      "target": "dev",
+      "mode": "development",
+      "git": {
+        "bundle_root_path": "."
+      }
+    },
+    "workspace": {
+      "file_path": "/Workspace/Users/bittuchudhare9118@gmail.com/.bundle/my_job_bundle/dev/files"
+    },
+    "resources": {
+      "jobs": {
+        "sample_job": {
+          "id": "69643753145396",
+          "relative_path": "resources/sample_job.job.yml"
+        }
+      },
+      "pipelines": {
+        "my_job_bundle_etl": {
+          "id": "437762bb-6bd6-4174-9eef-9ad6ab7c4487",
+          "relative_path": "resources/my_job_bundle_etl.pipeline.yml"
+        }
+      }
+    },
+    "presets": {
+      "source_linked_deployment": false
+    }
+  },
+  "extra": {}
+}
