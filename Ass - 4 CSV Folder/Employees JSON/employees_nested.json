@@ -1,0 +1,152 @@
+[
+  {
+    "emp_id": 101,
+    "name": "Alice Johnson",
+    "department": "Engineering",
+    "contact": {
+      "email": "alice.j@company.com",
+      "phone": "+1-555-0101",
+      "address": {
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94105"
+      }
+    },
+    "skills": [
+      "Python",
+      "Spark",
+      "SQL"
+    ],
+    "projects": [
+      {
+        "name": "Data Pipeline",
+        "status": "completed",
+        "hours": 120
+      },
+      {
+        "name": "ML Model",
+        "status": "active",
+        "hours": 80
+      }
+    ]
+  },
+  {
+    "emp_id": 102,
+    "name": "Bob Smith",
+    "department": "Sales",
+    "contact": {
+      "email": "bob.s@company.com",
+      "phone": "+1-555-0102",
+      "address": {
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001"
+      }
+    },
+    "skills": [
+      "CRM",
+      "Negotiation",
+      "Excel"
+    ],
+    "projects": [
+      {
+        "name": "Q1 Campaign",
+        "status": "completed",
+        "hours": 60
+      }
+    ]
+  },
+  {
+    "emp_id": 103,
+    "name": "Charlie Brown",
+    "department": "Engineering",
+    "contact": {
+      "email": "charlie.b@company.com",
+      "phone": "+1-555-0103",
+      "address": {
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98101"
+      }
+    },
+    "skills": [
+      "Java",
+      "Kafka",
+      "Docker"
+    ],
+    "projects": [
+      {
+        "name": "API Gateway",
+        "status": "active",
+        "hours": 200
+      },
+      {
+        "name": "Microservices",
+        "status": "active",
+        "hours": 150
+      },
+      {
+        "name": "Legacy Migration",
+        "status": "completed",
+        "hours": 300
+      }
+    ]
+  },
+  {
+    "emp_id": 104,
+    "name": "Diana Prince",
+    "department": "HR",
+    "contact": {
+      "email": "diana.p@company.com",
+      "phone": "+1-555-0104",
+      "address": {
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78701"
+      }
+    },
+    "skills": [
+      "Recruiting",
+      "People Management",
+      "Compliance"
+    ],
+    "projects": [
+      {
+        "name": "Hiring Drive",
+        "status": "completed",
+        "hours": 90
+      },
+      {
+        "name": "Policy Update",
+        "status": "active",
+        "hours": 40
+      }
+    ]
+  },
+  {
+    "emp_id": 105,
+    "name": "Evan Wright",
+    "department": "Sales",
+    "contact": {
+      "email": "evan.w@company.com",
+      "phone": "+1-555-0105",
+      "address": {
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60601"
+      }
+    },
+    "skills": [
+      "Salesforce",
+      "Presentation",
+      "Analytics"
+    ],
+    "projects": [
+      {
+        "name": "Enterprise Deal",
+        "status": "active",
+        "hours": 110
+      }
+    ]
+  }
+]

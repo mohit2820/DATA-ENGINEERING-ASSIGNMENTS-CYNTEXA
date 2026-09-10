@@ -1,0 +1,5 @@
+customer_id,name,address,city,start_date,end_date,is_current
+201,Ravi Patel,12 MG Road,Pune,2026-01-01,2026-02-15,false
+201,Ravi Patel,45 FC Road,Pune,2026-02-15,,true
+202,Lily Chen,8 Anna Nagar,Chennai,2026-01-10,,true
+203,Omar Sy,22 Marine Drive,Mumbai,2026-02-01,,true

@@ -1,0 +1,11 @@
+emp_id,name,department,salary,joining_date,is_active
+101,Alice Johnson,Engineering,85000,2022-03-15,true
+102,Bob Smith,Sales,52000,2021-07-20,true
+103,Charlie Brown,Engineering,92000,2023-01-10,true
+104,Diana Prince,HR,48000,2020-11-05,false
+105,Evan Wright,Sales,61000,2022-09-12,true
+106,Fiona Gallagher,Engineering,78000,2021-05-30,true
+107,George Miller,HR,45000,2023-04-18,false
+108,Hannah Lee,Sales,58000,2020-08-22,true
+109,Ian Clark,Engineering,95000,2022-12-01,true
+110,Julia Roberts,HR,50000,2021-02-14,false

@@ -1,0 +1,3 @@
+shipment_id|origin|destination|weight_kg|ship_date|priority
+SH004|HOU|DEN|15.0|2026-08-04|High
+SH005|PHX|ATL|8.5|2026-08-05|Low

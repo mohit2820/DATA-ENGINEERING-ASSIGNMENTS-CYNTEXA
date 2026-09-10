@@ -1,0 +1,216 @@
+Order ID,Product Name,Category,Customer Name,Country,Order Date,Quantity,Unit Price,Total Amount,Payment Method,Discount Applied,Shipping Status
+ORD-1095,4K Monitor,electronics,,UK,2024-04-05,5.0,427.36,2136.8,Credit Card,no,delivered
+ORD-1165,smart watch,ACCESSORIES,,USA,2024-06-14,5.0,401.44,2007.2,PayPal,,
+ORD-1138,4k Monitor,Accessories,Jane Doe,France,2024-05-18,1.0,87.41,87.41,PayPal,NO,delivered
+ORD-1176,ssd 1tb,ELECTRONICS,Alice Brown,canada,2024-06-25,1.0,326.71,326.71,Credit Card,Yes,delivered
+ORD-1015,Webcam HD,Electronics,John Smith,Germany,2024-01-16,5.0,109.74,548.7,Credit Card,yes,delivered
+ORD-1111,4k Monitor,ACCESSORIES,JOHN SMITH,Canada,2024-04-21,3.0,320.54,961.62,CREDIT CARD,,
+ORD-1168,Tablet 10inch,,John Smith,canada,2024-06-17,2.0,321.94,643.88,credit card,no,shipped
+ORD-1073,ram 16gb,Accessories,Alice Brown,USA,2024-03-14,,199.18,,Debit Card,yes,Pending
+ORD-1128,4k Monitor,Electronics,john smith,,2024-05-08,5.0,128.01,640.05,Debit Card,NO,
+ORD-1139,smart watch,Computers,Jane Doe,,2024-05-19,5.0,226.45,1132.25,credit card,No,pending
+ORD-1158,SSD 1TB,Accessories,John Smith,France,2024-06-07,5.0,346.04,1730.2,Credit Card,,delivered
+ORD-1030,Webcam HD,computers,Jane Doe,,2024-01-31,1.0,236.11,,Debit Card,NO,Shipped
+ORD-1186,power bank,,Jane Doe,Uk,2024-07-05,2.0,274.31,548.62,cash,NO,delivered
+ORD-1009,mechanical keyboard,Accessories,Alice Brown,france,2024-01-10,2.0,212.49,424.98,Credit Card,no,delivered
+ORD-1067,Gaming Laptop,Accessories,Jane Doe,Canada,2024-03-08,,124.45,,Cash,NO,
+ORD-1175,webcam hd,electronics,Jane Doe,uk,2024-06-24,,452.67,,,Yes,Shipped
+ORD-1171,Mechanical Keyboard,,Alice Brown,USA,2024-06-20,,363.25,,CREDIT CARD,yes,Delivered
+ORD-1018,Mechanical Keyboard,computers,Charlie Wilson,USA,2024-01-19,2.0,224.68,449.36,paypal,yes,delivered
+ORD-1153,4k Monitor,Electronics,,,2024-06-02,5.0,154.66,773.3,cash,YES,delivered
+ORD-1066,RAM 16GB,,Bob Johnson,,2024-03-07,5.0,290.18,1450.9,credit card,no,
+ORD-1185,RAM 16GB,Accessories,charlie wilson,UK,2024-07-04,1.0,74.76,74.76,Cash,No,Shipped
+ORD-1142,bluetooth headphones,Computers,JOHN SMITH,uk,2024-05-22,5.0,323.08,1615.4,Debit Card,yes,shipped
+ORD-1079,Bluetooth Headphones,Accessories,john smith,usa,2024-03-20,,256.12,,credit card,,shipped
+ORD-1025,usb-c cable,Accessories,JOHN SMITH,UK,2024-01-26,,279.91,,PayPal,NO,delivered
+ORD-1104,smart watch,Electronics,JOHN SMITH,France,2024-04-14,2.0,43.53,87.06,credit card,,delivered
+ORD-1145,Power Bank,accessories,JOHN SMITH,USA,2024-05-25,2.0,424.2,848.4,credit card,NO,Shipped
+ORD-1189,smart watch,,jane doe,USA,2024-07-08,2.0,457.61,915.22,credit card,Yes,delivered
+ORD-1016,Wireless mouse,,Alice Brown,usa,2024-01-17,1.0,279.12,279.12,PayPal,yes,shipped
+ORD-1045,USB-C Cable,Electronics,charlie wilson,USA,2024-02-15,1.0,433.37,433.37,paypal,Yes,delivered
+ORD-1150,ram 16gb,Electronics,,Uk,2024-05-30,2.0,290.24,,Credit Card,YES,delivered
+ORD-1108,Bluetooth Headphones,Electronics,Bob Johnson,canada,2024-04-18,2.0,375.92,,PayPal,No,Delivered
+ORD-1055,4K Monitor,,john smith,canada,2024-02-25,,499.46,,Credit Card,yes,delivered
+ORD-1112,bluetooth headphones,electronics,bob johnson,Usa,2024-04-22,5.0,437.56,2187.8,,Yes,
+ORD-1191,mechanical keyboard,Computers,john smith,,2024-07-10,,135.92,,credit card,yes,
+ORD-1124,,electronics,Jane Doe,UK,2024-05-04,1.0,93.29,93.29,Credit Card,Yes,shipped
+ORD-1128,4k Monitor,Electronics,john smith,,2024-05-08,5.0,128.01,640.05,Debit Card,NO,
+ORD-1075,tablet 10inch,Electronics,Jane Doe,,2024-03-16,1.0,412.17,412.17,Cash,,Shipped
+ORD-1135,usb-c cable,Computers,Charlie Wilson,UK,2024-05-15,1.0,404.27,404.27,debit card,yes,Delivered
+ORD-1118,gaming laptop,ELECTRONICS,Jane Doe,usa,2024-04-28,2.0,153.75,307.5,paypal,,Pending
+ORD-1098,bluetooth headphones,ACCESSORIES,John Smith,USA,2024-04-08,1.0,196.2,196.2,Credit Card,no,shipped
+ORD-1096,usb-c cable,Electronics,bob johnson,canada,2024-04-06,1.0,427.65,427.65,,No,pending
+ORD-1183,mechanical keyboard,electronics,Jane Doe,france,2024-07-02,3.0,376.27,1128.81,cash,Yes,Delivered
+ORD-1117,Tablet 10inch,computers,Jane Doe,,2024-04-27,,400.11,,cash,NO,pending
+ORD-1093,USB C Cable,Accessories,Alice Brown,canada,2024-04-03,2.0,349.43,698.86,PayPal,Yes,Shipped
+ORD-1084,Bluetooth Headphones,,John Smith,USA,2024-03-25,5.0,267.72,1338.6,Debit Card,,
+ORD-1095,4K Monitor,electronics,,UK,2024-04-05,5.0,427.36,2136.8,Credit Card,no,delivered
+ORD-1137,SSD 1TB,computers,JOHN SMITH,,2024-05-17,1.0,342.03,342.03,credit card,no,Shipped
+ORD-1066,RAM 16GB,,Bob Johnson,,2024-03-07,5.0,290.18,1450.9,credit card,no,
+ORD-1086,mechanical keyboard,Electronics,Bob Johnson,USA,2024-03-27,3.0,364.0,1092.0,debit card,no,
+ORD-1162,Wireless Mouse,,jane doe,Germany,2024-06-11,1.0,253.4,253.4,Credit Card,YES,delivered
+ORD-1152,ram 16gb,Electronics,Bob Johnson,Germany,2024-06-01,3.0,496.42,1489.26,Credit Card,No,Shipped
+ORD-1038,power bank,ELECTRONICS,,,2024-02-08,5.0,490.32,2451.6,paypal,NO,pending
+ORD-1024,RAM 16GB,Electronics,jane doe,France,2024-01-25,1.0,87.61,87.61,Credit Card,,
+ORD-1165,smart watch,ACCESSORIES,,USA,2024-06-14,5.0,401.44,2007.2,PayPal,,
+ORD-1120,power bank,ELECTRONICS,John Smith,,2024-04-30,1.0,81.33,,credit card,,shipped
+ORD-1029,RAM 16GB,Electronics,john smith,France,2024-01-30,1.0,457.34,457.34,cash,no,delivered
+ORD-1019,usb-c cable,Electronics,john smith,Canada,2024-01-20,5.0,352.14,1760.7,,NO,Delivered
+ORD-1069,smart watch,electronics,charlie wilson,UK,2024-03-10,,31.39,,debit card,Yes,
+ORD-1097,Tablet 10inch,Computers,alice brown,Germany,2024-04-07,1.0,431.08,431.08,Credit Card,YES,
+ORD-1060,Power Bank,electronics,JOHN SMITH,USA,2024-03-01,2.0,280.44,560.88,,,pending
+ORD-1068,,Electronics,charlie wilson,,2024-03-09,2.0,390.02,,,yes,Delivered
+ORD-1005,Bluetooth Headphones,accessories,JOHN SMITH,Germany,2024-01-06,1.0,262.15,262.15,cash,yes,delivered
+ORD-1136,smart watch,computers,,USA,2024-05-16,2.0,451.59,903.18,cash,,
+ORD-1056,Smart Watch,computers,Jane Doe,germany,2024-02-26,5.0,249.92,1249.6,PayPal,YES,pending
+ORD-1100,Tablet 10inch,Computers,john smith,germany,2024-04-10,3.0,362.17,1086.51,PayPal,NO,pending
+ORD-1198,Power Bank,Accessories,charlie wilson,UK,2024-07-17,2.0,481.82,963.64,Cash,,delivered
+ORD-1082,Mechanical Keyboard,computers,John Smith,USA,2024-03-23,,438.35,,cash,yes,Pending
+ORD-1065,Mechanical Keyboard,Accessories,,USA,2024-03-06,5.0,351.77,1758.85,Credit Card,NO,delivered
+ORD-1109,USB C Cable,Computers,Charlie Wilson,,2024-04-19,1.0,222.65,222.65,PayPal,NO,
+ORD-1182,Power Bank,Computers,Jane Doe,Germany,2024-07-01,5.0,154.6,,,,pending
+ORD-1031,Bluetooth Headphones,electronics,Jane Doe,germany,2024-02-01,,67.56,,,yes,delivered
+ORD-1012,RAM 16GB,ELECTRONICS,,UK,2024-01-13,3.0,380.66,1141.98,credit card,,Delivered
+ORD-1035,,Electronics,Alice Brown,,2024-02-05,,259.35,,Credit Card,No,delivered
+ORD-1028,tablet 10inch,electronics,Jane Doe,,2024-01-29,,496.21,,,no,
+ORD-1042,Webcam HD,Computers,charlie wilson,Canada,2024-02-12,2.0,461.72,923.44,CREDIT CARD,,Delivered
+ORD-1159,Mechanical Keyboard,Electronics,,,2024-06-08,5.0,374.89,1874.45,Cash,,Pending
+ORD-1101,smart watch,computers,Jane Doe,canada,2024-04-11,1.0,382.11,382.11,CREDIT CARD,yes,Shipped
+ORD-1146,RAM 16GB,computers,Jane Doe,Usa,2024-05-26,,107.62,,Cash,NO,
+ORD-1051,4k Monitor,Electronics,john smith,Usa,2024-02-21,2.0,412.07,824.14,CREDIT CARD,Yes,Pending
+ORD-1115,RAM 16GB,Accessories,jane doe,France,2024-04-25,2.0,452.68,905.36,CREDIT CARD,,Shipped
+ORD-1173,4k Monitor,Electronics,Jane Doe,Canada,2024-06-22,1.0,420.79,420.79,CREDIT CARD,,Shipped
+ORD-1076,Mechanical Keyboard,ACCESSORIES,Jane Doe,canada,2024-03-17,5.0,490.6,2453.0,Cash,,
+ORD-1041,tablet 10inch,,,germany,2024-02-11,,197.96,,credit card,No,shipped
+ORD-1132,ram 16gb,electronics,Jane Doe,canada,2024-05-12,3.0,134.45,403.35,Credit Card,No,Shipped
+ORD-1078,Tablet 10inch,,John Smith,USA,2024-03-19,2.0,28.14,56.28,Debit Card,,shipped
+ORD-1127,gaming laptop,electronics,charlie wilson,germany,2024-05-07,,313.66,,,,
+ORD-1026,tablet 10inch,,Jane Doe,germany,2024-01-27,1.0,280.6,280.6,Cash,,Pending
+ORD-1143,USB-C Cable,Electronics,,USA,2024-05-23,5.0,217.91,1089.55,cash,yes,delivered
+ORD-1113,smart watch,Accessories,JOHN SMITH,,2024-04-23,2.0,227.4,454.8,Credit Card,,Shipped
+ORD-1125,Wireless mouse,computers,charlie wilson,USA,2024-05-05,2.0,48.69,97.38,Debit Card,NO,Shipped
+ORD-1002,Wireless Mouse,,Jane Doe,UK,2024-01-03,,168.4,,PayPal,,Delivered
+ORD-1077,Wireless mouse,electronics,John Smith,Uk,2024-03-18,5.0,252.71,,PayPal,,delivered
+ORD-1046,usb-c cable,Electronics,John Smith,USA,2024-02-16,,145.36,,Cash,YES,Pending
+ORD-1078,Tablet 10inch,,John Smith,USA,2024-03-19,2.0,28.14,56.28,Debit Card,,shipped
+ORD-1115,RAM 16GB,Accessories,jane doe,France,2024-04-25,2.0,452.68,905.36,CREDIT CARD,,Shipped
+ORD-1090,smart watch,Accessories,jane doe,UK,2024-03-31,5.0,240.05,1200.25,Cash,No,delivered
+ORD-1085,Wireless Mouse,ELECTRONICS,John Smith,France,2024-03-26,1.0,233.89,233.89,Credit Card,yes,Pending
+ORD-1144,Bluetooth Headphones,Computers,,,2024-05-24,1.0,132.55,132.55,,No,shipped
+ORD-1036,Wireless Mouse,computers,John Smith,Uk,2024-02-06,5.0,143.98,719.9,Cash,yes,
+ORD-1122,Wireless mouse,computers,Jane Doe,USA,2024-05-02,2.0,287.3,574.6,Credit Card,yes,pending
+ORD-1061,webcam hd,ACCESSORIES,jane doe,usa,2024-03-02,,276.28,,PayPal,,pending
+ORD-1022,Smart Watch,accessories,Jane Doe,Usa,2024-01-23,2.0,308.35,616.7,Debit Card,NO,shipped
+ORD-1141,USB-C Cable,ELECTRONICS,John Smith,USA,2024-05-21,,297.91,,Cash,YES,Pending
+ORD-1119,,Computers,,Canada,2024-04-29,1.0,193.67,193.67,CREDIT CARD,,
+ORD-1033,ram 16gb,ELECTRONICS,jane doe,Canada,2024-02-03,1.0,254.2,254.2,Credit Card,YES,Pending
+ORD-1011,Power Bank,ACCESSORIES,Jane Doe,,2024-01-12,1.0,187.27,187.27,cash,YES,
+ORD-1045,USB-C Cable,Electronics,charlie wilson,USA,2024-02-15,1.0,433.37,433.37,paypal,Yes,delivered
+ORD-1170,Smart Watch,,John Smith,usa,2024-06-19,2.0,342.1,684.2,,NO,Shipped
+ORD-1006,Bluetooth Headphones,Electronics,charlie wilson,usa,2024-01-07,2.0,494.18,988.36,Debit Card,NO,Shipped
+ORD-1027,smart watch,electronics,Bob Johnson,germany,2024-01-28,2.0,55.67,,Credit Card,Yes,shipped
+ORD-1196,Wireless Mouse,ACCESSORIES,alice brown,UK,2024-07-15,1.0,175.97,175.97,PayPal,No,
+ORD-1069,smart watch,electronics,charlie wilson,UK,2024-03-10,,31.39,,debit card,Yes,
+ORD-1147,RAM 16GB,accessories,bob johnson,,2024-05-27,5.0,198.5,992.5,cash,YES,
+ORD-1004,bluetooth headphones,Electronics,bob johnson,Uk,2024-01-05,,208.05,,debit card,,
+ORD-1032,webcam hd,,Bob Johnson,uk,2024-02-02,3.0,417.75,1253.25,PayPal,No,Delivered
+ORD-1015,Webcam HD,Electronics,John Smith,Germany,2024-01-16,5.0,109.74,548.7,Credit Card,yes,delivered
+ORD-1155,Bluetooth Headphones,ELECTRONICS,bob johnson,Canada,2024-06-04,2.0,332.53,665.06,Cash,yes,delivered
+ORD-1172,4k Monitor,ELECTRONICS,Jane Doe,canada,2024-06-21,5.0,333.0,1665.0,credit card,no,pending
+ORD-1154,4K Monitor,computers,Jane Doe,France,2024-06-03,3.0,489.19,1467.57,paypal,YES,shipped
+ORD-1114,tablet 10inch,Accessories,John Smith,,2024-04-24,,350.06,,paypal,Yes,shipped
+ORD-1010,Tablet 10inch,ELECTRONICS,Bob Johnson,France,2024-01-11,,101.92,,paypal,NO,shipped
+ORD-1062,RAM 16GB,Electronics,jane doe,canada,2024-03-03,,233.12,,PayPal,,Delivered
+ORD-1126,,,Jane Doe,france,2024-05-06,,436.71,,PayPal,YES,pending
+ORD-1156,USB-C Cable,Accessories,,USA,2024-06-05,1.0,144.5,144.5,Credit Card,YES,pending
+ORD-1177,bluetooth headphones,electronics,Bob Johnson,uk,2024-06-26,5.0,161.38,806.9,,NO,Delivered
+ORD-1000,smart watch,,,France,2024-01-01,,232.86,,PayPal,,delivered
+ORD-1193,Webcam HD,,jane doe,Canada,2024-07-12,3.0,246.11,738.33,Credit Card,yes,
+ORD-1163,mechanical keyboard,Electronics,JOHN SMITH,Usa,2024-06-12,5.0,453.04,2265.2,credit card,,Pending
+ORD-1070,Smart Watch,Electronics,John Smith,,2024-03-11,,374.91,,paypal,YES,
+ORD-1181,Tablet 10inch,Accessories,John Smith,USA,2024-06-30,1.0,54.17,54.17,debit card,,Shipped
+ORD-1064,4k Monitor,,Jane Doe,Usa,2024-03-05,5.0,102.44,512.2,debit card,YES,pending
+ORD-1044,bluetooth headphones,,John Smith,France,2024-02-14,2.0,440.87,881.74,Credit Card,no,Shipped
+ORD-1140,webcam hd,Electronics,Jane Doe,Uk,2024-05-20,1.0,179.33,179.33,Cash,NO,
+ORD-1040,USB C Cable,,Charlie Wilson,germany,2024-02-10,1.0,280.12,280.12,debit card,no,Pending
+ORD-1123,Bluetooth Headphones,Accessories,Bob Johnson,,2024-05-03,5.0,398.33,1991.65,CREDIT CARD,,Delivered
+ORD-1023,Wireless Mouse,Accessories,alice brown,France,2024-01-24,5.0,127.26,636.3,credit card,yes,Delivered
+ORD-1161,Wireless mouse,Electronics,Jane Doe,,2024-06-10,2.0,307.14,614.28,debit card,NO,delivered
+ORD-1192,Gaming Laptop,Electronics,,,2024-07-11,2.0,414.1,828.2,Credit Card,NO,
+ORD-1081,Gaming Laptop,Electronics,bob johnson,UK,2024-03-22,,436.15,,Debit Card,No,shipped
+ORD-1039,,accessories,jane doe,USA,2024-02-09,5.0,129.43,647.15,Credit Card,yes,Pending
+ORD-1180,Wireless Mouse,Electronics,,Canada,2024-06-29,1.0,368.86,368.86,Debit Card,yes,Delivered
+ORD-1047,power bank,Accessories,alice brown,USA,2024-02-17,1.0,397.1,397.1,credit card,no,
+ORD-1094,4K Monitor,electronics,alice brown,Germany,2024-04-04,1.0,328.42,,Credit Card,No,
+ORD-1164,USB-C Cable,Electronics,,UK,2024-06-13,2.0,150.24,300.48,Cash,yes,
+ORD-1043,gaming laptop,Accessories,alice brown,,2024-02-13,,259.04,,Credit Card,Yes,shipped
+ORD-1148,bluetooth headphones,Computers,John Smith,uk,2024-05-28,,246.77,,PayPal,No,Shipped
+ORD-1003,Power Bank,electronics,jane doe,Germany,2024-01-04,2.0,485.39,970.78,Credit Card,,
+ORD-1105,USB C Cable,Electronics,alice brown,Usa,2024-04-15,2.0,319.27,638.54,cash,YES,Pending
+ORD-1053,4K Monitor,ACCESSORIES,JOHN SMITH,France,2024-02-23,,156.29,,Cash,YES,Shipped
+ORD-1133,tablet 10inch,Accessories,John Smith,Germany,2024-05-13,2.0,135.11,,CREDIT CARD,,pending
+ORD-1194,USB C Cable,,Bob Johnson,Usa,2024-07-13,,405.18,,cash,YES,delivered
+ORD-1167,,Electronics,bob johnson,france,2024-06-16,1.0,182.64,,credit card,no,Pending
+ORD-1199,bluetooth headphones,Electronics,John Smith,usa,2024-07-18,1.0,78.97,78.97,PayPal,YES,Delivered
+ORD-1049,mechanical keyboard,accessories,Jane Doe,UK,2024-02-19,1.0,467.78,467.78,PayPal,NO,Pending
+ORD-1080,power bank,accessories,charlie wilson,canada,2024-03-21,5.0,299.19,1495.95,Credit Card,no,Delivered
+ORD-1034,bluetooth headphones,ELECTRONICS,JOHN SMITH,,2024-02-04,,361.14,,credit card,,pending
+ORD-1007,USB-C Cable,,charlie wilson,UK,2024-01-08,1.0,332.25,,credit card,,delivered
+ORD-1110,webcam hd,Electronics,alice brown,uk,2024-04-20,3.0,58.24,174.72,Debit Card,yes,Pending
+ORD-1091,,computers,JOHN SMITH,USA,2024-04-01,3.0,484.91,1454.73,credit card,,Shipped
+ORD-1083,Wireless Mouse,Accessories,jane doe,uk,2024-03-24,3.0,225.75,677.25,Credit Card,NO,Delivered
+ORD-1190,gaming laptop,electronics,John Smith,germany,2024-07-09,,416.93,,PayPal,,
+ORD-1195,webcam hd,,charlie wilson,canada,2024-07-14,2.0,375.81,751.62,PayPal,Yes,Pending
+ORD-1089,webcam hd,computers,charlie wilson,Uk,2024-03-30,1.0,85.64,85.64,credit card,Yes,
+ORD-1008,Power Bank,,jane doe,,2024-01-09,2.0,275.87,551.74,debit card,NO,shipped
+ORD-1013,Mechanical Keyboard,,Jane Doe,,2024-01-14,2.0,316.45,632.9,Cash,yes,Delivered
+ORD-1059,Wireless mouse,Accessories,alice brown,uk,2024-02-29,,179.11,,debit card,No,
+ORD-1184,Tablet 10inch,,John Smith,Uk,2024-07-03,2.0,96.06,192.12,paypal,,delivered
+ORD-1131,usb-c cable,Electronics,alice brown,UK,2024-05-11,,235.96,,paypal,yes,
+ORD-1017,Wireless Mouse,ACCESSORIES,Charlie Wilson,,2024-01-18,1.0,464.56,464.56,Credit Card,,Pending
+ORD-1166,USB C Cable,Electronics,john smith,usa,2024-06-15,1.0,307.46,307.46,Cash,,Pending
+ORD-1072,4K Monitor,Electronics,alice brown,uk,2024-03-13,3.0,407.59,1222.77,PayPal,Yes,pending
+ORD-1174,Smart Watch,,John Smith,USA,2024-06-23,2.0,317.84,635.68,paypal,,pending
+ORD-1134,gaming laptop,ELECTRONICS,bob johnson,,2024-05-14,3.0,14.6,,PayPal,,Pending
+ORD-1178,RAM 16GB,,jane doe,UK,2024-06-27,1.0,226.0,226.0,cash,no,
+ORD-1197,Power Bank,accessories,bob johnson,germany,2024-07-16,5.0,66.43,332.15,debit card,,
+ORD-1063,mechanical keyboard,,Charlie Wilson,UK,2024-03-04,1.0,167.67,,CREDIT CARD,NO,
+ORD-1054,Wireless Mouse,computers,jane doe,Usa,2024-02-24,2.0,297.6,595.2,Debit Card,,
+ORD-1107,Power Bank,electronics,John Smith,uk,2024-04-17,1.0,498.74,,,,Shipped
+ORD-1050,Mechanical Keyboard,Computers,charlie wilson,Uk,2024-02-20,1.0,258.79,258.79,cash,NO,Pending
+ORD-1174,Smart Watch,,John Smith,USA,2024-06-23,2.0,317.84,635.68,paypal,,pending
+ORD-1182,Power Bank,Computers,Jane Doe,Germany,2024-07-01,5.0,154.6,,,,pending
+ORD-1169,Webcam HD,computers,John Smith,Usa,2024-06-18,1.0,314.24,314.24,Debit Card,Yes,
+ORD-1058,,Accessories,,Canada,2024-02-28,1.0,273.9,,cash,yes,Delivered
+ORD-1048,gaming laptop,Electronics,jane doe,Canada,2024-02-18,1.0,213.32,213.32,credit card,no,Pending
+ORD-1088,bluetooth headphones,,JOHN SMITH,USA,2024-03-29,1.0,330.84,330.84,PayPal,no,pending
+ORD-1021,ssd 1tb,ACCESSORIES,alice brown,,2024-01-22,,486.84,,Credit Card,Yes,Pending
+ORD-1057,bluetooth headphones,electronics,john smith,canada,2024-02-27,,82.81,,PayPal,Yes,
+ORD-1160,power bank,,,Germany,2024-06-09,1.0,34.03,,debit card,NO,Shipped
+ORD-1170,Smart Watch,,John Smith,usa,2024-06-19,2.0,342.1,684.2,,NO,Shipped
+ORD-1187,bluetooth headphones,,bob johnson,germany,2024-07-06,1.0,486.03,486.03,,,Delivered
+ORD-1129,bluetooth headphones,Electronics,Bob Johnson,,2024-05-09,2.0,457.29,914.58,Credit Card,yes,shipped
+ORD-1037,Wireless Mouse,,alice brown,germany,2024-02-07,,419.01,,PayPal,NO,pending
+ORD-1157,ssd 1tb,accessories,charlie wilson,France,2024-06-06,3.0,287.31,861.93,Credit Card,,shipped
+ORD-1158,SSD 1TB,Accessories,John Smith,France,2024-06-07,5.0,346.04,1730.2,Credit Card,,delivered
+ORD-1001,mechanical keyboard,ELECTRONICS,Bob Johnson,USA,2024-01-02,2.0,164.11,328.22,Credit Card,NO,delivered
+ORD-1052,mechanical keyboard,Electronics,Jane Doe,germany,2024-02-22,5.0,148.59,742.95,debit card,YES,
+ORD-1149,Power Bank,Electronics,JOHN SMITH,USA,2024-05-29,2.0,126.23,,,yes,
+ORD-1130,Mechanical Keyboard,,,canada,2024-05-10,3.0,80.13,240.39,CREDIT CARD,,shipped
+ORD-1151,Webcam HD,,Jane Doe,usa,2024-05-31,,291.66,,PayPal,no,Delivered
+ORD-1103,Smart Watch,Electronics,Jane Doe,France,2024-04-13,1.0,27.59,27.59,PayPal,,shipped
+ORD-1099,tablet 10inch,Computers,john smith,Usa,2024-04-09,,165.16,,Debit Card,no,delivered
+ORD-1116,Bluetooth Headphones,,Bob Johnson,USA,2024-04-26,2.0,32.54,65.08,CREDIT CARD,yes,Delivered
+ORD-1087,4k Monitor,,,,2024-03-28,5.0,210.89,,paypal,,shipped
+ORD-1030,Webcam HD,computers,Jane Doe,,2024-01-31,1.0,236.11,,Debit Card,NO,Shipped
+ORD-1074,usb-c cable,electronics,jane doe,UK,2024-03-15,,335.21,,PayPal,no,Delivered
+ORD-1121,power bank,accessories,John Smith,,2024-05-01,5.0,270.27,1351.35,Credit Card,no,Delivered
+ORD-1186,power bank,,Jane Doe,Uk,2024-07-05,2.0,274.31,548.62,cash,NO,delivered
+ORD-1020,Bluetooth Headphones,electronics,john smith,france,2024-01-21,,69.5,,debit card,YES,
+ORD-1188,power bank,Electronics,Bob Johnson,UK,2024-07-07,,270.12,,debit card,YES,shipped
+ORD-1071,Wireless Mouse,Electronics,jane doe,canada,2024-03-12,2.0,355.56,711.12,Credit Card,YES,Pending
+ORD-1106,RAM 16GB,Electronics,John Smith,uk,2024-04-16,2.0,461.26,922.52,PayPal,YES,Pending
+ORD-1014,ram 16gb,,john smith,Canada,2024-01-15,3.0,382.4,,Debit Card,yes,Pending
+ORD-1092,4K Monitor,Computers,,Germany,2024-04-02,1.0,175.9,175.9,Credit Card,Yes,
+ORD-1179,Wireless Mouse,electronics,John Smith,UK,2024-06-28,3.0,293.99,881.97,PayPal,yes,
+ORD-1102,Mechanical Keyboard,Electronics,,Germany,2024-04-12,5.0,437.47,2187.35,,Yes,delivered

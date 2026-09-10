@@ -1,0 +1,6 @@
+customer_id,name,email,city,phone,updated_at
+101,Asha Sharma,asha.sharma@email.com,Mumbai,9876500001,2026-08-20 09:15:00
+102,Rahul Iyer,rahul.i@email.com,Delhi,9876500002,2026-08-21 14:30:00
+103,Sneha Kulkarni,sneha.k@email.com,Pune,9876500003,2026-08-22 10:05:00
+104,David DSouza,david.ds@email.com,Kochi,9876500004,2026-08-23 16:45:00
+105,Farhan Khan,farhan.k@email.com,Delhi,9876500005,2026-08-24 11:20:00

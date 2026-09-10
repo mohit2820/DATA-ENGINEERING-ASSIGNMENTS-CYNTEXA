@@ -1,0 +1,1757 @@
+[
+  {
+    "shipment_id": "SH00001",
+    "order_date": "2026-08-21",
+    "estimated_delivery": "2026-08-23",
+    "status": "In Transit",
+    "sender": {
+      "name": "Sender 1 Corp",
+      "email": "contact@sender1.com",
+      "phone": "+1-659-703-5557",
+      "address": {
+        "street": "206 Oak Ave",
+        "city": "New York",
+        "state": "MI",
+        "zip": "65392",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 1 LLC",
+      "email": "orders@recipient1.com",
+      "phone": "+1-548-384-3547",
+      "address": {
+        "street": "3627 Maple Ave",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "23396",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-28289",
+        "name": "Laptop Stand",
+        "quantity": 9,
+        "unit_price": 35.2,
+        "category": "Furniture"
+      },
+      {
+        "sku": "SKU-14165",
+        "name": "Wireless Mouse",
+        "quantity": 2,
+        "unit_price": 73.4,
+        "category": "Electronics"
+      }
+    ],
+    "tracking": {
+      "carrier": "Cyntexa Express",
+      "tracking_number": "1Z886833016361",
+      "current_location": {
+        "city": "Las Vegas",
+        "facility": "Airport Hub"
+      }
+    },
+    "source_file": "shipments_20260821.json"
+  },
+  {
+    "shipment_id": "SH00002",
+    "order_date": "2026-08-03",
+    "estimated_delivery": "2026-08-08",
+    "status": "Out for Delivery",
+    "sender": {
+      "name": "Sender 2 Corp",
+      "email": "contact@sender2.com",
+      "phone": "+1-484-564-6977",
+      "address": {
+        "street": "2764 Broadway",
+        "city": "Houston",
+        "state": "PA",
+        "zip": "56566",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 2 LLC",
+      "email": "orders@recipient2.com",
+      "phone": "+1-414-786-5374",
+      "address": {
+        "street": "1269 Jefferson St",
+        "city": "Boston",
+        "state": "CO",
+        "zip": "93227",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-15695",
+        "name": "Phone Case",
+        "quantity": 9,
+        "unit_price": 46.19,
+        "category": "Furniture"
+      },
+      {
+        "sku": "SKU-20328",
+        "name": "Gaming Mousepad",
+        "quantity": 5,
+        "unit_price": 250.52,
+        "category": "Accessories"
+      },
+      {
+        "sku": "SKU-85674",
+        "name": "Portable SSD 1TB",
+        "quantity": 2,
+        "unit_price": 23.28,
+        "category": "Office"
+      }
+    ],
+    "tracking": {
+      "carrier": "DHL",
+      "tracking_number": "1Z190130840140",
+      "current_location": {
+        "city": "San Diego",
+        "facility": "Distribution Center"
+      }
+    },
+    "source_file": "shipments_20260803.json"
+  },
+  {
+    "shipment_id": "SH00003",
+    "order_date": "2026-08-06",
+    "estimated_delivery": "2026-08-12",
+    "status": "In Transit",
+    "sender": {
+      "name": "Sender 3 Corp",
+      "email": "contact@sender3.com",
+      "phone": "+1-452-862-9830",
+      "address": {
+        "street": "4404 Elm Dr",
+        "city": "San Diego",
+        "state": "IL",
+        "zip": "66155",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 3 LLC",
+      "email": "orders@recipient3.com",
+      "phone": "+1-797-508-6930",
+      "address": {
+        "street": "3693 Cedar Ln",
+        "city": "Atlanta",
+        "state": "WA",
+        "zip": "76784",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-93886",
+        "name": "Gaming Mousepad",
+        "quantity": 4,
+        "unit_price": 208.53,
+        "category": "Electronics"
+      },
+      {
+        "sku": "SKU-40021",
+        "name": "Mechanical Keyboard",
+        "quantity": 6,
+        "unit_price": 126.33,
+        "category": "Electronics"
+      },
+      {
+        "sku": "SKU-37653",
+        "name": "Router WiFi 6",
+        "quantity": 6,
+        "unit_price": 71.65,
+        "category": "Furniture"
+      }
+    ],
+    "tracking": {
+      "carrier": "USPS",
+      "tracking_number": "1Z605272201394",
+      "current_location": {
+        "city": "Phoenix",
+        "facility": "Regional Sort Facility"
+      }
+    },
+    "source_file": "shipments_20260806.json"
+  },
+  {
+    "shipment_id": "SH00004",
+    "order_date": "2026-08-16",
+    "estimated_delivery": "2026-08-18",
+    "status": "Shipped",
+    "sender": {
+      "name": "Sender 4 Corp",
+      "email": "contact@sender4.com",
+      "phone": "+1-500-545-3591",
+      "address": {
+        "street": "7533 Main St",
+        "city": "Los Angeles",
+        "state": "NV",
+        "zip": "44522",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 4 LLC",
+      "email": "orders@recipient4.com",
+      "phone": "+1-712-880-3927",
+      "address": {
+        "street": "8417 Pine Rd",
+        "city": "Houston",
+        "state": "IL",
+        "zip": "91959",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-99192",
+        "name": "Tablet 10-inch",
+        "quantity": 10,
+        "unit_price": 28.41,
+        "category": "Furniture"
+      },
+      {
+        "sku": "SKU-88104",
+        "name": "Phone Case",
+        "quantity": 9,
+        "unit_price": 82.9,
+        "category": "Electronics"
+      }
+    ],
+    "tracking": {
+      "carrier": "FedEx",
+      "tracking_number": "1Z926939990836",
+      "current_location": {
+        "city": "Dallas",
+        "facility": "Regional Sort Facility"
+      }
+    },
+    "source_file": "shipments_20260816.json"
+  },
+  {
+    "shipment_id": "SH00005",
+    "order_date": "2026-08-10",
+    "estimated_delivery": "2026-08-17",
+    "status": "In Transit",
+    "sender": {
+      "name": "Sender 5 Corp",
+      "email": "contact@sender5.com",
+      "phone": "+1-875-586-3705",
+      "address": {
+        "street": "4442 Elm Dr",
+        "city": "Portland",
+        "state": "CO",
+        "zip": "89507",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 5 LLC",
+      "email": "orders@recipient5.com",
+      "phone": "+1-633-316-9835",
+      "address": {
+        "street": "3395 Maple Ave",
+        "city": "San Antonio",
+        "state": "IL",
+        "zip": "62296",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-31174",
+        "name": "Gaming Mousepad",
+        "quantity": 9,
+        "unit_price": 276.35,
+        "category": "Accessories"
+      },
+      {
+        "sku": "SKU-74042",
+        "name": "Wireless Mouse",
+        "quantity": 2,
+        "unit_price": 279.43,
+        "category": "Accessories"
+      },
+      {
+        "sku": "SKU-41385",
+        "name": "Mechanical Keyboard",
+        "quantity": 4,
+        "unit_price": 264.61,
+        "category": "Electronics"
+      }
+    ],
+    "tracking": {
+      "carrier": "FedEx",
+      "tracking_number": "1Z635719463887",
+      "current_location": {
+        "city": "Chicago",
+        "facility": "Local Hub"
+      }
+    },
+    "source_file": "shipments_20260810.json"
+  },
+  {
+    "shipment_id": "SH00006",
+    "order_date": "2026-08-21",
+    "estimated_delivery": "2026-08-25",
+    "status": "Delivered",
+    "sender": {
+      "name": "Sender 6 Corp",
+      "email": "contact@sender6.com",
+      "phone": "+1-885-597-4510",
+      "address": {
+        "street": "8934 Oak Ave",
+        "city": "Atlanta",
+        "state": "FL",
+        "zip": "84847",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 6 LLC",
+      "email": "orders@recipient6.com",
+      "phone": "+1-790-584-4981",
+      "address": {
+        "street": "7849 Washington Blvd",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "34957",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-18392",
+        "name": "Standing Desk",
+        "quantity": 1,
+        "unit_price": 180.6,
+        "category": "Office"
+      },
+      {
+        "sku": "SKU-87128",
+        "name": "Monitor 27-inch",
+        "quantity": 1,
+        "unit_price": 30.58,
+        "category": "Electronics"
+      }
+    ],
+    "tracking": {
+      "carrier": "UPS",
+      "tracking_number": "1Z178728590908",
+      "current_location": {
+        "city": "Portland",
+        "facility": "Local Hub"
+      }
+    },
+    "source_file": "shipments_20260821.json"
+  },
+  {
+    "shipment_id": "SH00007",
+    "order_date": "2026-08-04",
+    "estimated_delivery": "2026-08-06",
+    "status": "In Transit",
+    "sender": {
+      "name": "Sender 7 Corp",
+      "email": "contact@sender7.com",
+      "phone": "+1-632-287-5563",
+      "address": {
+        "street": "7679 Oak Ave",
+        "city": "Denver",
+        "state": "PA",
+        "zip": "19880",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 7 LLC",
+      "email": "orders@recipient7.com",
+      "phone": "+1-653-927-2604",
+      "address": {
+        "street": "928 Jefferson St",
+        "city": "Atlanta",
+        "state": "NV",
+        "zip": "11934",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-98259",
+        "name": "Laptop Stand",
+        "quantity": 1,
+        "unit_price": 126.75,
+        "category": "Accessories"
+      }
+    ],
+    "tracking": {
+      "carrier": "FedEx",
+      "tracking_number": "1Z311521368324",
+      "current_location": {
+        "city": "San Antonio",
+        "facility": "Airport Hub"
+      }
+    },
+    "source_file": "shipments_20260804.json"
+  },
+  {
+    "shipment_id": "SH00008",
+    "order_date": "2026-08-03",
+    "estimated_delivery": "2026-08-06",
+    "status": "Pending",
+    "sender": {
+      "name": "Sender 8 Corp",
+      "email": "contact@sender8.com",
+      "phone": "+1-953-655-1998",
+      "address": {
+        "street": "5238 Main St",
+        "city": "Philadelphia",
+        "state": "WA",
+        "zip": "16572",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 8 LLC",
+      "email": "orders@recipient8.com",
+      "phone": "+1-798-588-9238",
+      "address": {
+        "street": "8801 Cedar Ln",
+        "city": "Detroit",
+        "state": "MA",
+        "zip": "17455",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-62565",
+        "name": "Mechanical Keyboard",
+        "quantity": 3,
+        "unit_price": 119.89,
+        "category": "Furniture"
+      },
+      {
+        "sku": "SKU-44760",
+        "name": "Phone Case",
+        "quantity": 5,
+        "unit_price": 132.66,
+        "category": "Furniture"
+      }
+    ],
+    "tracking": {
+      "carrier": "UPS",
+      "tracking_number": "1Z422938152332",
+      "current_location": {
+        "city": "San Antonio",
+        "facility": "Distribution Center"
+      }
+    },
+    "source_file": "shipments_20260803.json"
+  },
+  {
+    "shipment_id": "SH00009",
+    "order_date": "2026-08-17",
+    "estimated_delivery": "2026-08-19",
+    "status": "Delivered",
+    "sender": {
+      "name": "Sender 9 Corp",
+      "email": "contact@sender9.com",
+      "phone": "+1-605-234-5915",
+      "address": {
+        "street": "7591 Broadway",
+        "city": "Philadelphia",
+        "state": "CA",
+        "zip": "19508",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 9 LLC",
+      "email": "orders@recipient9.com",
+      "phone": "+1-209-569-2638",
+      "address": {
+        "street": "1300 Jefferson St",
+        "city": "Chicago",
+        "state": "GA",
+        "zip": "37938",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-62923",
+        "name": "Laptop Stand",
+        "quantity": 10,
+        "unit_price": 81.39,
+        "category": "Electronics"
+      },
+      {
+        "sku": "SKU-91183",
+        "name": "USB-C Cable",
+        "quantity": 7,
+        "unit_price": 200.63,
+        "category": "Accessories"
+      }
+    ],
+    "tracking": {
+      "carrier": "DHL",
+      "tracking_number": "1Z835316694200",
+      "current_location": {
+        "city": "Seattle",
+        "facility": "Local Hub"
+      }
+    },
+    "source_file": "shipments_20260817.json"
+  },
+  {
+    "shipment_id": "SH00010",
+    "order_date": "2026-08-17",
+    "estimated_delivery": "2026-08-21",
+    "status": "Returned",
+    "sender": {
+      "name": "Sender 10 Corp",
+      "email": "contact@sender10.com",
+      "phone": "+1-551-308-5325",
+      "address": {
+        "street": "8380 Market St",
+        "city": "Phoenix",
+        "state": "PA",
+        "zip": "42914",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 10 LLC",
+      "email": "orders@recipient10.com",
+      "phone": "+1-252-194-7939",
+      "address": {
+        "street": "4633 Pine Rd",
+        "city": "Chicago",
+        "state": "TX",
+        "zip": "10464",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-47353",
+        "name": "Noise Cancelling Headphones",
+        "quantity": 8,
+        "unit_price": 251.78,
+        "category": "Accessories"
+      },
+      {
+        "sku": "SKU-90173",
+        "name": "HDMI Adapter",
+        "quantity": 1,
+        "unit_price": 203.67,
+        "category": "Accessories"
+      },
+      {
+        "sku": "SKU-96951",
+        "name": "Laptop Stand",
+        "quantity": 3,
+        "unit_price": 86.69,
+        "category": "Electronics"
+      }
+    ],
+    "tracking": {
+      "carrier": "Cyntexa Express",
+      "tracking_number": "1Z397020387114",
+      "current_location": {
+        "city": "San Jose",
+        "facility": "Local Hub"
+      }
+    },
+    "source_file": "shipments_20260817.json"
+  },
+  {
+    "shipment_id": "SH00011",
+    "order_date": "2026-08-11",
+    "estimated_delivery": "2026-08-14",
+    "status": "In Transit",
+    "sender": {
+      "name": "Sender 11 Corp",
+      "email": "contact@sender11.com",
+      "phone": "+1-381-522-1406",
+      "address": {
+        "street": "3038 Broadway",
+        "city": "Dallas",
+        "state": "IL",
+        "zip": "63964",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 11 LLC",
+      "email": "orders@recipient11.com",
+      "phone": "+1-885-984-5065",
+      "address": {
+        "street": "4471 Cedar Ln",
+        "city": "Atlanta",
+        "state": "FL",
+        "zip": "24168",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-83519",
+        "name": "Wireless Mouse",
+        "quantity": 2,
+        "unit_price": 31.81,
+        "category": "Office"
+      },
+      {
+        "sku": "SKU-81511",
+        "name": "Mechanical Keyboard",
+        "quantity": 6,
+        "unit_price": 178.92,
+        "category": "Office"
+      },
+      {
+        "sku": "SKU-66333",
+        "name": "Webcam 1080p",
+        "quantity": 1,
+        "unit_price": 99.38,
+        "category": "Electronics"
+      },
+      {
+        "sku": "SKU-56898",
+        "name": "Portable SSD 1TB",
+        "quantity": 4,
+        "unit_price": 203.4,
+        "category": "Accessories"
+      }
+    ],
+    "tracking": {
+      "carrier": "Cyntexa Express",
+      "tracking_number": "1Z923004474410",
+      "current_location": {
+        "city": "Phoenix",
+        "facility": "Local Hub"
+      }
+    },
+    "source_file": "shipments_20260811.json"
+  },
+  {
+    "shipment_id": "SH00012",
+    "order_date": "2026-08-13",
+    "estimated_delivery": "2026-08-15",
+    "status": "Returned",
+    "sender": {
+      "name": "Sender 12 Corp",
+      "email": "contact@sender12.com",
+      "phone": "+1-521-546-9379",
+      "address": {
+        "street": "1994 Market St",
+        "city": "Detroit",
+        "state": "TX",
+        "zip": "85574",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 12 LLC",
+      "email": "orders@recipient12.com",
+      "phone": "+1-394-360-1727",
+      "address": {
+        "street": "7244 Pine Rd",
+        "city": "San Antonio",
+        "state": "NV",
+        "zip": "78146",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-55830",
+        "name": "Ergonomic Chair",
+        "quantity": 4,
+        "unit_price": 74.64,
+        "category": "Office"
+      },
+      {
+        "sku": "SKU-62227",
+        "name": "Standing Desk",
+        "quantity": 5,
+        "unit_price": 260.65,
+        "category": "Accessories"
+      },
+      {
+        "sku": "SKU-56025",
+        "name": "HDMI Adapter",
+        "quantity": 7,
+        "unit_price": 207.05,
+        "category": "Accessories"
+      },
+      {
+        "sku": "SKU-13617",
+        "name": "Laptop Stand",
+        "quantity": 5,
+        "unit_price": 61.77,
+        "category": "Accessories"
+      }
+    ],
+    "tracking": {
+      "carrier": "FedEx",
+      "tracking_number": "1Z753300614396",
+      "current_location": {
+        "city": "Denver",
+        "facility": "Regional Sort Facility"
+      }
+    },
+    "source_file": "shipments_20260813.json"
+  },
+  {
+    "shipment_id": "SH00013",
+    "order_date": "2026-08-18",
+    "estimated_delivery": "2026-08-25",
+    "status": "Pending",
+    "sender": {
+      "name": "Sender 13 Corp",
+      "email": "contact@sender13.com",
+      "phone": "+1-200-411-5700",
+      "address": {
+        "street": "3543 Market St",
+        "city": "San Antonio",
+        "state": "PA",
+        "zip": "86019",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 13 LLC",
+      "email": "orders@recipient13.com",
+      "phone": "+1-821-770-6279",
+      "address": {
+        "street": "7718 Washington Blvd",
+        "city": "Denver",
+        "state": "CA",
+        "zip": "67954",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-91678",
+        "name": "Standing Desk",
+        "quantity": 2,
+        "unit_price": 218.72,
+        "category": "Accessories"
+      },
+      {
+        "sku": "SKU-76469",
+        "name": "Ergonomic Chair",
+        "quantity": 7,
+        "unit_price": 104.58,
+        "category": "Accessories"
+      },
+      {
+        "sku": "SKU-82667",
+        "name": "Webcam 1080p",
+        "quantity": 4,
+        "unit_price": 131.92,
+        "category": "Furniture"
+      }
+    ],
+    "tracking": {
+      "carrier": "UPS",
+      "tracking_number": "1Z725413874351",
+      "current_location": {
+        "city": "San Jose",
+        "facility": "Airport Hub"
+      }
+    },
+    "source_file": "shipments_20260818.json"
+  },
+  {
+    "shipment_id": "SH00014",
+    "order_date": "2026-08-07",
+    "estimated_delivery": "2026-08-13",
+    "status": "Shipped",
+    "sender": {
+      "name": "Sender 14 Corp",
+      "email": "contact@sender14.com",
+      "phone": "+1-247-350-8784",
+      "address": {
+        "street": "1293 Market St",
+        "city": "Detroit",
+        "state": "OR",
+        "zip": "64321",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 14 LLC",
+      "email": "orders@recipient14.com",
+      "phone": "+1-844-689-4185",
+      "address": {
+        "street": "6391 Washington Blvd",
+        "city": "Philadelphia",
+        "state": "GA",
+        "zip": "62383",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-47196",
+        "name": "HDMI Adapter",
+        "quantity": 10,
+        "unit_price": 107.19,
+        "category": "Office"
+      }
+    ],
+    "tracking": {
+      "carrier": "DHL",
+      "tracking_number": "1Z985728087295",
+      "current_location": {
+        "city": "San Antonio",
+        "facility": "Local Hub"
+      }
+    },
+    "source_file": "shipments_20260807.json"
+  },
+  {
+    "shipment_id": "SH00015",
+    "order_date": "2026-08-08",
+    "estimated_delivery": "2026-08-11",
+    "status": "Returned",
+    "sender": {
+      "name": "Sender 15 Corp",
+      "email": "contact@sender15.com",
+      "phone": "+1-444-381-8206",
+      "address": {
+        "street": "1369 Broadway",
+        "city": "New York",
+        "state": "OR",
+        "zip": "40735",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 15 LLC",
+      "email": "orders@recipient15.com",
+      "phone": "+1-478-443-6238",
+      "address": {
+        "street": "8949 Pine Rd",
+        "city": "Houston",
+        "state": "OR",
+        "zip": "28136",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-38683",
+        "name": "Noise Cancelling Headphones",
+        "quantity": 9,
+        "unit_price": 144.71,
+        "category": "Office"
+      },
+      {
+        "sku": "SKU-25906",
+        "name": "Phone Case",
+        "quantity": 3,
+        "unit_price": 242.4,
+        "category": "Accessories"
+      },
+      {
+        "sku": "SKU-68008",
+        "name": "Security Camera",
+        "quantity": 9,
+        "unit_price": 133.74,
+        "category": "Furniture"
+      },
+      {
+        "sku": "SKU-30861",
+        "name": "Power Bank 20000mAh",
+        "quantity": 8,
+        "unit_price": 85.16,
+        "category": "Office"
+      }
+    ],
+    "tracking": {
+      "carrier": "DHL",
+      "tracking_number": "1Z957987636625",
+      "current_location": {
+        "city": "Portland",
+        "facility": "Airport Hub"
+      }
+    },
+    "source_file": "shipments_20260808.json"
+  },
+  {
+    "shipment_id": "SH00016",
+    "order_date": "2026-08-05",
+    "estimated_delivery": "2026-08-08",
+    "status": "Out for Delivery",
+    "sender": {
+      "name": "Sender 16 Corp",
+      "email": "contact@sender16.com",
+      "phone": "+1-206-460-5892",
+      "address": {
+        "street": "6489 Market St",
+        "city": "Miami",
+        "state": "MI",
+        "zip": "80545",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 16 LLC",
+      "email": "orders@recipient16.com",
+      "phone": "+1-965-852-9947",
+      "address": {
+        "street": "9983 Cedar Ln",
+        "city": "Phoenix",
+        "state": "MI",
+        "zip": "73993",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-18418",
+        "name": "Tablet 10-inch",
+        "quantity": 7,
+        "unit_price": 105.95,
+        "category": "Furniture"
+      },
+      {
+        "sku": "SKU-64496",
+        "name": "Mechanical Keyboard",
+        "quantity": 4,
+        "unit_price": 251.53,
+        "category": "Furniture"
+      }
+    ],
+    "tracking": {
+      "carrier": "Cyntexa Express",
+      "tracking_number": "1Z868567484183",
+      "current_location": {
+        "city": "New York",
+        "facility": "Airport Hub"
+      }
+    },
+    "source_file": "shipments_20260805.json"
+  },
+  {
+    "shipment_id": "SH00017",
+    "order_date": "2026-08-08",
+    "estimated_delivery": "2026-08-12",
+    "status": "Out for Delivery",
+    "sender": {
+      "name": "Sender 17 Corp",
+      "email": "contact@sender17.com",
+      "phone": "+1-534-445-7211",
+      "address": {
+        "street": "4658 Market St",
+        "city": "Denver",
+        "state": "MA",
+        "zip": "43065",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 17 LLC",
+      "email": "orders@recipient17.com",
+      "phone": "+1-283-581-1317",
+      "address": {
+        "street": "8937 Pine Rd",
+        "city": "New York",
+        "state": "WA",
+        "zip": "55870",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-97670",
+        "name": "Smart Watch",
+        "quantity": 3,
+        "unit_price": 253.74,
+        "category": "Office"
+      },
+      {
+        "sku": "SKU-91560",
+        "name": "Gaming Mousepad",
+        "quantity": 1,
+        "unit_price": 273.0,
+        "category": "Electronics"
+      },
+      {
+        "sku": "SKU-21003",
+        "name": "Tablet 10-inch",
+        "quantity": 3,
+        "unit_price": 261.38,
+        "category": "Office"
+      }
+    ],
+    "tracking": {
+      "carrier": "FedEx",
+      "tracking_number": "1Z517729190564",
+      "current_location": {
+        "city": "Seattle",
+        "facility": "Local Hub"
+      }
+    },
+    "source_file": "shipments_20260808.json"
+  },
+  {
+    "shipment_id": "SH00018",
+    "order_date": "2026-08-08",
+    "estimated_delivery": "2026-08-15",
+    "status": "Out for Delivery",
+    "sender": {
+      "name": "Sender 18 Corp",
+      "email": "contact@sender18.com",
+      "phone": "+1-916-362-7043",
+      "address": {
+        "street": "2849 Elm Dr",
+        "city": "Chicago",
+        "state": "OR",
+        "zip": "89593",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 18 LLC",
+      "email": "orders@recipient18.com",
+      "phone": "+1-965-835-2876",
+      "address": {
+        "street": "2783 Maple Ave",
+        "city": "Los Angeles",
+        "state": "OR",
+        "zip": "24168",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-42411",
+        "name": "Portable SSD 1TB",
+        "quantity": 1,
+        "unit_price": 190.18,
+        "category": "Office"
+      }
+    ],
+    "tracking": {
+      "carrier": "UPS",
+      "tracking_number": "1Z836473336882",
+      "current_location": {
+        "city": "Houston",
+        "facility": "Local Hub"
+      }
+    },
+    "source_file": "shipments_20260808.json"
+  },
+  {
+    "shipment_id": "SH00019",
+    "order_date": "2026-08-19",
+    "estimated_delivery": "2026-08-21",
+    "status": "Pending",
+    "sender": {
+      "name": "Sender 19 Corp",
+      "email": "contact@sender19.com",
+      "phone": "+1-863-449-1207",
+      "address": {
+        "street": "6982 Market St",
+        "city": "San Jose",
+        "state": "CO",
+        "zip": "23833",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 19 LLC",
+      "email": "orders@recipient19.com",
+      "phone": "+1-643-470-8532",
+      "address": {
+        "street": "2606 Washington Blvd",
+        "city": "Miami",
+        "state": "WA",
+        "zip": "33086",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-19961",
+        "name": "Router WiFi 6",
+        "quantity": 4,
+        "unit_price": 39.54,
+        "category": "Accessories"
+      },
+      {
+        "sku": "SKU-99687",
+        "name": "Security Camera",
+        "quantity": 2,
+        "unit_price": 240.9,
+        "category": "Electronics"
+      }
+    ],
+    "tracking": {
+      "carrier": "DHL",
+      "tracking_number": "1Z570439558680",
+      "current_location": {
+        "city": "Boston",
+        "facility": "Distribution Center"
+      }
+    },
+    "source_file": "shipments_20260819.json"
+  },
+  {
+    "shipment_id": "SH00020",
+    "order_date": "2026-08-17",
+    "estimated_delivery": "2026-08-24",
+    "status": "Pending",
+    "sender": {
+      "name": "Sender 20 Corp",
+      "email": "contact@sender20.com",
+      "phone": "+1-395-187-4954",
+      "address": {
+        "street": "6758 Market St",
+        "city": "Dallas",
+        "state": "CO",
+        "zip": "82768",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 20 LLC",
+      "email": "orders@recipient20.com",
+      "phone": "+1-976-346-8800",
+      "address": {
+        "street": "8141 Washington Blvd",
+        "city": "Las Vegas",
+        "state": "OR",
+        "zip": "12260",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-70931",
+        "name": "Tablet 10-inch",
+        "quantity": 10,
+        "unit_price": 87.82,
+        "category": "Office"
+      },
+      {
+        "sku": "SKU-21359",
+        "name": "Desk Lamp LED",
+        "quantity": 8,
+        "unit_price": 80.71,
+        "category": "Furniture"
+      },
+      {
+        "sku": "SKU-84691",
+        "name": "Security Camera",
+        "quantity": 7,
+        "unit_price": 107.55,
+        "category": "Furniture"
+      },
+      {
+        "sku": "SKU-52600",
+        "name": "Noise Cancelling Headphones",
+        "quantity": 8,
+        "unit_price": 71.5,
+        "category": "Accessories"
+      }
+    ],
+    "tracking": {
+      "carrier": "DHL",
+      "tracking_number": "1Z871359612234",
+      "current_location": {
+        "city": "Dallas",
+        "facility": "Distribution Center"
+      }
+    },
+    "source_file": "shipments_20260817.json"
+  },
+  {
+    "shipment_id": "SH00021",
+    "order_date": "2026-08-03",
+    "estimated_delivery": "2026-08-07",
+    "status": "Returned",
+    "sender": {
+      "name": "Sender 21 Corp",
+      "email": "contact@sender21.com",
+      "phone": "+1-803-878-9595",
+      "address": {
+        "street": "9877 Broadway",
+        "city": "San Diego",
+        "state": "WA",
+        "zip": "23176",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 21 LLC",
+      "email": "orders@recipient21.com",
+      "phone": "+1-398-403-4727",
+      "address": {
+        "street": "6012 Cedar Ln",
+        "city": "San Jose",
+        "state": "GA",
+        "zip": "49618",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-72031",
+        "name": "Gaming Mousepad",
+        "quantity": 9,
+        "unit_price": 109.68,
+        "category": "Accessories"
+      },
+      {
+        "sku": "SKU-56112",
+        "name": "Phone Case",
+        "quantity": 5,
+        "unit_price": 98.91,
+        "category": "Office"
+      },
+      {
+        "sku": "SKU-25814",
+        "name": "Portable SSD 1TB",
+        "quantity": 6,
+        "unit_price": 44.66,
+        "category": "Office"
+      }
+    ],
+    "tracking": {
+      "carrier": "UPS",
+      "tracking_number": "1Z912678183898",
+      "current_location": {
+        "city": "Detroit",
+        "facility": "Regional Sort Facility"
+      }
+    },
+    "source_file": "shipments_20260803.json"
+  },
+  {
+    "shipment_id": "SH00022",
+    "order_date": "2026-08-01",
+    "estimated_delivery": "2026-08-08",
+    "status": "Out for Delivery",
+    "sender": {
+      "name": "Sender 22 Corp",
+      "email": "contact@sender22.com",
+      "phone": "+1-651-448-4020",
+      "address": {
+        "street": "941 Broadway",
+        "city": "Las Vegas",
+        "state": "IL",
+        "zip": "72616",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 22 LLC",
+      "email": "orders@recipient22.com",
+      "phone": "+1-316-941-2070",
+      "address": {
+        "street": "6665 Washington Blvd",
+        "city": "Dallas",
+        "state": "NY",
+        "zip": "19710",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-82529",
+        "name": "Ergonomic Chair",
+        "quantity": 3,
+        "unit_price": 194.97,
+        "category": "Furniture"
+      }
+    ],
+    "tracking": {
+      "carrier": "FedEx",
+      "tracking_number": "1Z116633204627",
+      "current_location": {
+        "city": "San Jose",
+        "facility": "Airport Hub"
+      }
+    },
+    "source_file": "shipments_20260801.json"
+  },
+  {
+    "shipment_id": "SH00023",
+    "order_date": "2026-08-19",
+    "estimated_delivery": "2026-08-26",
+    "status": "In Transit",
+    "sender": {
+      "name": "Sender 23 Corp",
+      "email": "contact@sender23.com",
+      "phone": "+1-840-316-5335",
+      "address": {
+        "street": "1430 Oak Ave",
+        "city": "Los Angeles",
+        "state": "IL",
+        "zip": "41439",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 23 LLC",
+      "email": "orders@recipient23.com",
+      "phone": "+1-377-665-2229",
+      "address": {
+        "street": "2664 Pine Rd",
+        "city": "Phoenix",
+        "state": "OR",
+        "zip": "63545",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-21164",
+        "name": "Monitor 27-inch",
+        "quantity": 2,
+        "unit_price": 171.83,
+        "category": "Furniture"
+      },
+      {
+        "sku": "SKU-89471",
+        "name": "Security Camera",
+        "quantity": 10,
+        "unit_price": 75.44,
+        "category": "Furniture"
+      },
+      {
+        "sku": "SKU-69049",
+        "name": "Phone Case",
+        "quantity": 5,
+        "unit_price": 259.44,
+        "category": "Furniture"
+      }
+    ],
+    "tracking": {
+      "carrier": "DHL",
+      "tracking_number": "1Z781047077731",
+      "current_location": {
+        "city": "Los Angeles",
+        "facility": "Distribution Center"
+      }
+    },
+    "source_file": "shipments_20260819.json"
+  },
+  {
+    "shipment_id": "SH00024",
+    "order_date": "2026-08-15",
+    "estimated_delivery": "2026-08-22",
+    "status": "Out for Delivery",
+    "sender": {
+      "name": "Sender 24 Corp",
+      "email": "contact@sender24.com",
+      "phone": "+1-327-579-5982",
+      "address": {
+        "street": "6694 Broadway",
+        "city": "Detroit",
+        "state": "AZ",
+        "zip": "75597",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 24 LLC",
+      "email": "orders@recipient24.com",
+      "phone": "+1-752-605-8172",
+      "address": {
+        "street": "1417 Jefferson St",
+        "city": "Los Angeles",
+        "state": "TX",
+        "zip": "15224",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-47056",
+        "name": "Phone Case",
+        "quantity": 2,
+        "unit_price": 209.33,
+        "category": "Accessories"
+      },
+      {
+        "sku": "SKU-91927",
+        "name": "Router WiFi 6",
+        "quantity": 4,
+        "unit_price": 133.28,
+        "category": "Office"
+      },
+      {
+        "sku": "SKU-94886",
+        "name": "Webcam 1080p",
+        "quantity": 5,
+        "unit_price": 249.71,
+        "category": "Electronics"
+      }
+    ],
+    "tracking": {
+      "carrier": "FedEx",
+      "tracking_number": "1Z968296026728",
+      "current_location": {
+        "city": "San Jose",
+        "facility": "Regional Sort Facility"
+      }
+    },
+    "source_file": "shipments_20260815.json"
+  },
+  {
+    "shipment_id": "SH00025",
+    "order_date": "2026-08-14",
+    "estimated_delivery": "2026-08-21",
+    "status": "Pending",
+    "sender": {
+      "name": "Sender 25 Corp",
+      "email": "contact@sender25.com",
+      "phone": "+1-867-552-5557",
+      "address": {
+        "street": "3073 Elm Dr",
+        "city": "Seattle",
+        "state": "CO",
+        "zip": "67132",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 25 LLC",
+      "email": "orders@recipient25.com",
+      "phone": "+1-850-933-9056",
+      "address": {
+        "street": "1594 Washington Blvd",
+        "city": "Dallas",
+        "state": "NY",
+        "zip": "55607",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-40005",
+        "name": "Router WiFi 6",
+        "quantity": 10,
+        "unit_price": 285.72,
+        "category": "Accessories"
+      }
+    ],
+    "tracking": {
+      "carrier": "Cyntexa Express",
+      "tracking_number": "1Z937691416447",
+      "current_location": {
+        "city": "Philadelphia",
+        "facility": "Airport Hub"
+      }
+    },
+    "source_file": "shipments_20260814.json"
+  },
+  {
+    "shipment_id": "SH00026",
+    "order_date": "2026-08-14",
+    "estimated_delivery": "2026-08-18",
+    "status": "Returned",
+    "sender": {
+      "name": "Sender 26 Corp",
+      "email": "contact@sender26.com",
+      "phone": "+1-755-573-7770",
+      "address": {
+        "street": "988 Oak Ave",
+        "city": "Seattle",
+        "state": "GA",
+        "zip": "77952",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 26 LLC",
+      "email": "orders@recipient26.com",
+      "phone": "+1-570-737-9167",
+      "address": {
+        "street": "7342 Pine Rd",
+        "city": "Houston",
+        "state": "NV",
+        "zip": "36680",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-53228",
+        "name": "Tablet 10-inch",
+        "quantity": 8,
+        "unit_price": 93.57,
+        "category": "Furniture"
+      },
+      {
+        "sku": "SKU-82102",
+        "name": "Mechanical Keyboard",
+        "quantity": 8,
+        "unit_price": 35.53,
+        "category": "Accessories"
+      }
+    ],
+    "tracking": {
+      "carrier": "DHL",
+      "tracking_number": "1Z545699699578",
+      "current_location": {
+        "city": "Portland",
+        "facility": "Distribution Center"
+      }
+    },
+    "source_file": "shipments_20260814.json"
+  },
+  {
+    "shipment_id": "SH00027",
+    "order_date": "2026-08-09",
+    "estimated_delivery": "2026-08-15",
+    "status": "Pending",
+    "sender": {
+      "name": "Sender 27 Corp",
+      "email": "contact@sender27.com",
+      "phone": "+1-348-492-4122",
+      "address": {
+        "street": "9920 Elm Dr",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "27892",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 27 LLC",
+      "email": "orders@recipient27.com",
+      "phone": "+1-271-382-7798",
+      "address": {
+        "street": "5668 Jefferson St",
+        "city": "Atlanta",
+        "state": "MI",
+        "zip": "45018",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-25915",
+        "name": "Wireless Mouse",
+        "quantity": 10,
+        "unit_price": 241.79,
+        "category": "Office"
+      },
+      {
+        "sku": "SKU-50730",
+        "name": "Gaming Mousepad",
+        "quantity": 1,
+        "unit_price": 170.14,
+        "category": "Electronics"
+      },
+      {
+        "sku": "SKU-39451",
+        "name": "Laptop Stand",
+        "quantity": 8,
+        "unit_price": 284.64,
+        "category": "Office"
+      },
+      {
+        "sku": "SKU-75323",
+        "name": "Ergonomic Chair",
+        "quantity": 9,
+        "unit_price": 214.56,
+        "category": "Furniture"
+      }
+    ],
+    "tracking": {
+      "carrier": "USPS",
+      "tracking_number": "1Z619606194160",
+      "current_location": {
+        "city": "San Diego",
+        "facility": "Airport Hub"
+      }
+    },
+    "source_file": "shipments_20260809.json"
+  },
+  {
+    "shipment_id": "SH00028",
+    "order_date": "2026-08-01",
+    "estimated_delivery": "2026-08-05",
+    "status": "Delivered",
+    "sender": {
+      "name": "Sender 28 Corp",
+      "email": "contact@sender28.com",
+      "phone": "+1-962-584-7246",
+      "address": {
+        "street": "6425 Oak Ave",
+        "city": "San Jose",
+        "state": "NV",
+        "zip": "74923",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 28 LLC",
+      "email": "orders@recipient28.com",
+      "phone": "+1-237-229-9229",
+      "address": {
+        "street": "9769 Maple Ave",
+        "city": "Detroit",
+        "state": "NV",
+        "zip": "23154",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-68529",
+        "name": "Gaming Mousepad",
+        "quantity": 8,
+        "unit_price": 110.08,
+        "category": "Furniture"
+      },
+      {
+        "sku": "SKU-69682",
+        "name": "Standing Desk",
+        "quantity": 4,
+        "unit_price": 294.41,
+        "category": "Office"
+      }
+    ],
+    "tracking": {
+      "carrier": "Cyntexa Express",
+      "tracking_number": "1Z355047917740",
+      "current_location": {
+        "city": "Denver",
+        "facility": "Distribution Center"
+      }
+    },
+    "source_file": "shipments_20260801.json"
+  },
+  {
+    "shipment_id": "SH00029",
+    "order_date": "2026-08-15",
+    "estimated_delivery": "2026-08-17",
+    "status": "Pending",
+    "sender": {
+      "name": "Sender 29 Corp",
+      "email": "contact@sender29.com",
+      "phone": "+1-270-340-5708",
+      "address": {
+        "street": "3827 Main St",
+        "city": "Portland",
+        "state": "MA",
+        "zip": "66881",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 29 LLC",
+      "email": "orders@recipient29.com",
+      "phone": "+1-300-878-2646",
+      "address": {
+        "street": "7369 Cedar Ln",
+        "city": "New York",
+        "state": "MI",
+        "zip": "49251",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-63736",
+        "name": "Webcam 1080p",
+        "quantity": 2,
+        "unit_price": 146.14,
+        "category": "Accessories"
+      },
+      {
+        "sku": "SKU-54375",
+        "name": "Security Camera",
+        "quantity": 7,
+        "unit_price": 198.44,
+        "category": "Accessories"
+      }
+    ],
+    "tracking": {
+      "carrier": "Cyntexa Express",
+      "tracking_number": "1Z788554816658",
+      "current_location": {
+        "city": "Detroit",
+        "facility": "Distribution Center"
+      }
+    },
+    "source_file": "shipments_20260815.json"
+  },
+  {
+    "shipment_id": "SH00030",
+    "order_date": "2026-08-01",
+    "estimated_delivery": "2026-08-03",
+    "status": "Delivered",
+    "sender": {
+      "name": "Sender 30 Corp",
+      "email": "contact@sender30.com",
+      "phone": "+1-882-109-8622",
+      "address": {
+        "street": "4812 Elm Dr",
+        "city": "Seattle",
+        "state": "OR",
+        "zip": "30706",
+        "country": "USA"
+      }
+    },
+    "recipient": {
+      "name": "Recipient 30 LLC",
+      "email": "orders@recipient30.com",
+      "phone": "+1-275-552-6661",
+      "address": {
+        "street": "9726 Maple Ave",
+        "city": "Los Angeles",
+        "state": "AZ",
+        "zip": "93746",
+        "country": "USA"
+      }
+    },
+    "items": [
+      {
+        "sku": "SKU-59131",
+        "name": "Tablet 10-inch",
+        "quantity": 3,
+        "unit_price": 80.81,
+        "category": "Furniture"
+      },
+      {
+        "sku": "SKU-84177",
+        "name": "Noise Cancelling Headphones",
+        "quantity": 3,
+        "unit_price": 60.76,
+        "category": "Furniture"
+      },
+      {
+        "sku": "SKU-91226",
+        "name": "Monitor 27-inch",
+        "quantity": 8,
+        "unit_price": 274.71,
+        "category": "Office"
+      }
+    ],
+    "tracking": {
+      "carrier": "UPS",
+      "tracking_number": "1Z802060293051",
+      "current_location": {
+        "city": "Dallas",
+        "facility": "Airport Hub"
+      }
+    },
+    "source_file": "shipments_20260801.json"
+  }
+]

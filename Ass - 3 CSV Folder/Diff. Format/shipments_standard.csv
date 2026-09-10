@@ -1,0 +1,4 @@
+shipment_id,origin,destination,weight_kg,ship_date
+SH001,NYC,SEA,10.5,2026-08-01
+SH002,LA,BOS,25.0,2026-08-02
+SH003,CHI,MIA,5.2,2026-08-03
