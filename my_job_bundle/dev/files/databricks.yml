@@ -37,7 +37,7 @@ targets:
     workspace:
       host: https://dbc-404769e6-c79b.cloud.databricks.com
       # We explicitly deploy to /Workspace/Users/bittuchudhare9118@gmail.com to make sure we only have a single copy.
-      root_path: /Workspace/Users/bittuchudhare9118@gmail.com/.bundle/${bundle.name}/${bundle.target}
+      root_path: my_job_bundle/dev/files
     variables:
       catalog: cyntexa_dev
       schema: prod
